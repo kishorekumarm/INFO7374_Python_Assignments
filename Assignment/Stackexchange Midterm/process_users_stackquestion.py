@@ -63,7 +63,7 @@ for i in list(set(ul) - set(ul2)):
         ans=data.get("items",'none')
         #print(ans)
         with open('topics/users/'+str(ans[0]['user_id'])+'.json','w') as f:
-                json.dump(ans,f)
+                json.dump(ans[0],f)
 
 
 
