@@ -34,9 +34,9 @@ for i in range(0,len(qlist)):
 
 ans_count=0
 for i in range(0,len(nl)):
-    print(n2[i])
+    #print(n2[i])
     ans_count=ans_count+n2[i]
-print("ans:"+str(ans_count))
+print("Actual ans count:"+str(ans_count))
 
 
 for i in range(0,len(nl)):
