@@ -64,7 +64,7 @@ q4=q.copy()
 q4['question_creation_date']=pd.to_datetime(q4['question_creation_date'],infer_datetime_format=True)
 q4['Year'] = q4['question_creation_date'].map(lambda x: x.year)
 q4=q4[['Year','title','question_id','view_count']]
-#print(q4.nlargest(10, 'view_count'))
+q4=q4.nlargest(10, 'view_count')
 q4.to_csv('Analysis_4_Most_freq_viewed_quest.csv')
 #print(result_2.sort_values(by='[total_badge_count','count'],ascending=[0,0]))
 
