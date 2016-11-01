@@ -1,0 +1,11 @@
+,question_id,title,date_diff,view_count
+14,28931022,Rotate existing axis labels in Matplotlib,584 days 17:55:39.000000000,324
+39,30261160,Exporting plain text header and image to Excel,452 days 06:14:58.000000000,37
+153,34893080,Apply (map) function to CERTAIN Pandas dataframe elements,174 days 14:11:09.000000000,85
+223,36740788,Cells in a column of pandas dataframe are individual list. dtype list is not working,131 days 08:18:32.000000000,51
+181,36631163,Panda&#39;s get_dummies vs. Sklearn&#39;s OneHotEncoder() :: What is more efficient?,105 days 10:38:42.000000000,366
+298,38700058,Different box plots on the same oX position,91 days 03:26:21.000000000,35
+327,37462268,Python in AzureML fail to pass dataframe without changes,44 days 19:07:53.000000000,47
+396,37910447,Failure to display positive day Candlesticks using matplotlib.finance.candlestick2_ochl,41 days 21:50:37.000000000,141
+1020,38356156,DataFrame: add column whose values are the quantile number/rank of an existing column?,33 days 22:24:25.000000000,63
+505,38921636,Python model targeting n variable prediction equation,25 days 15:48:02.000000000,39
