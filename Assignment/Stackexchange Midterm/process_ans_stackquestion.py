@@ -51,7 +51,7 @@ for i in range(0,len(nl)):
         #if(data.get("items",'none')!='none'):
         ans=data.get("items",'none')
         for k in range(0,len(ans)):
-            with open('topics/answers/'+str(ans[k]['question_id'])+'_'+str(ans[k]['answer_id'])+'_'+str(k)+'.json','w') as f:
+            with open('topics/answers/'+str(ans[k]['question_id'])+'_'+str(ans[k]['answer_id'])+'.json','w') as f:
                 json.dump(ans[k],f)
  
                 

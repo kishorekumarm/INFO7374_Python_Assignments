@@ -49,7 +49,7 @@ for i in range(1,int(cnt)+1):
 
     r=requests.get('http://api.stackexchange.com/2.2/questions?page='+str(i)+'&fromdate='+date_to_epoch(startdate)+'&todate='+date_to_epoch(enddate)+'&pagesize=100&order=desc&sort=activity&tagged='+str(answer)+'&site=stackoverflow&key=MRi7kVxf5u)1Cnmqk0cjzQ((')
     data=r.json()
-    with open(directory+'/'+str(answer)+'/'+str(dt)+'/'+str(answer)+'_'+str(ts)+'_'+str(i)+'.json', 'w') as outfile:  
+    with open(directory+'/'+str(answer)+'/'+str(dt)+'/'+str(answer)+'_'+str(ts)+'.json', 'w') as outfile:  
         json.dump(r.json(), outfile)
     if(data.get("items",'none')!='none'):
         questions=data.get("items",'none')
