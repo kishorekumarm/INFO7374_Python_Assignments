@@ -9,6 +9,8 @@ import  urllib,json
 from requests_oauthlib import OAuth1
 
 parser = argparse.ArgumentParser()
+parser.add_argument("--i",dest="imdbid", type=str,
+                    help="input imdbid")
 parser.add_argument("--s",dest="searchterm", type=str,
                     help="input a search term")
 parser.add_argument("--c",dest="count", type=str,
@@ -17,6 +19,7 @@ parser.add_argument("--v",help="input a search term using --s and number of coun
 args = parser.parse_args()
 answer = args.searchterm
 cnt = args.count
+imdb = args.imdbid
 print(answer)
 dt=str(datetime.date.today()).replace('-','')
 ts = datetime.datetime.fromtimestamp(time.time()).strftime('%Y%m%d_%H%M%S')
@@ -37,7 +40,7 @@ oauth = OAuth1('agSoBzGNJ0CIgM22ejyyYNHVA', 'KvQHO1k62Si4384scHddoEJFDTraSP9XZzb
 rq=requests.get(url, auth=oauth)
 #print(rq)
 
-r=requests.get('https://api.twitter.com/1.1/search/tweets.json?q='+str(answer)+'&count='+cnt,auth=oauth)
+r=requests.get('https://api.twitter.com/1.1/search/tweets.json?q='+str(answer)+'&count='+str(cnt),auth=oauth)
 data=r.json()
 tweets=[]
 tweet_dict={}
@@ -59,11 +62,11 @@ for i in range(0,len(tweets)):
     #print(time.struct_time(tm_year))
     print(str(tm[5]))
 
-    with open('Processed_tweets/'+str(answer)+'_'+str(userid)+'_'+str(tm[0])+str('{0:02d}'.format(tm[1]))+str('{0:02d}'.format(tm[2]))+'_'+str('{0:02d}'.format(tm[3]))+str('{0:02d}'.format(tm[4]))+str('{0:02d}'.format(tm[5]))+'.json', 'w') as outfile:
+    with open('Processed_tweets/'+str(imdb)+'_'+str(answer)+'_'+str(userid)+'_'+str(tm[0])+str('{0:02d}'.format(tm[1]))+str('{0:02d}'.format(tm[2]))+'_'+str('{0:02d}'.format(tm[3]))+str('{0:02d}'.format(tm[4]))+str('{0:02d}'.format(tm[5]))+'.json', 'w') as outfile:
         json.dump(tweets[i], outfile)
     #print(time.strftime("%Y%m%d_%H%M%S",time.localtime(cr)))
 
-with open(directory+'/'+str(answer)+'/'+str(dt)+'/'+str(answer)+'_'+str(ts)+'.json', 'w') as outfile:
+with open(directory+'/'+str(answer)+'/'+str(dt)+'/'+str(imdb)+'_'+str(answer)+'_'+str(ts)+'.json', 'w') as outfile:
     json.dump(r.json(), outfile)
 
 

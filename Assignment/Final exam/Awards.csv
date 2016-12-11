@@ -1,0 +1,1819 @@
+,imdbID,Language,Genre,Awards,Awards_won,Awards_nominated,Prime_Awards_nominated,Oscar_Awards_nominated,Golden_Globe_Awards_nominated,BAFTA_Awards_nominated,Other_Awards,Prime_Awards_won,Oscar_Awards_won,Golden_Globe_Awards_won,BAFTA_Awards_won
+0,tt0210930,Portuguese,Drama; History,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,tt0212513,English,Crime; Drama; Mystery,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,tt0235280,English,Action; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,tt0240149,French,Comedy; Drama,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,tt0243904,English,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,tt0250224,English,Drama; Romance,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,tt0254099,English,Comedy; Drama; Romance,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,tt0258068,English; French; Vietnamese,Drama; History; Mystery,Nominated for 1 Oscar. Another 13 wins & 13 nominations.,13.0,14.0,0.0,1.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0
+8,tt0263017,Spanish,Comedy; Drama,5 wins & 4 nominations.,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,tt0272338,English,Comedy; Drama; Romance,Nominated for 1 Golden Globe. Another 14 wins & 34 nominations.,14.0,35.0,0.0,0.0,1.0,0.0,14.0,0.0,0.0,0.0,0.0
+10,tt0274768,German,Drama; Romance; Thriller,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,tt0276639,Spanish,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,tt0280030,English,Animation; Adventure; Family,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,tt0280477,English,Crime; Drama; Romance,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,tt0281447,Portuguese,Comedy,22 wins & 44 nominations.,22.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,tt0281954,Spanish,Drama; Romance,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,tt0282171,English,Comedy; Sport,1 win & 8 nominations.,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,tt0283111,English,Comedy; Romance,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,tt0283941,German,Documentary,6 wins & 1 nomination.,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,tt0285331,English; Russian; German; Korean; Arabic; Spanish; Serbian; Mandarin,Action; Crime; Drama,Won 2 Golden Globes. Another 68 wins & 201 nominations.,70.0,201.0,0.0,0.0,0.0,0.0,68.0,0.0,0.0,2.0,0.0
+20,tt0285333,English; Bulgarian; Arabic; Cantonese; French; German; Hebrew; Hindi; Hungarian; Indonesian; Italian; Japanese; Portuguese; Romanian; Russian; Spanish; Thai; Ukrainian; Uzbek; Dutch,Action; Drama; Mystery,Won 1 Golden Globe. Another 31 wins & 143 nominations.,32.0,143.0,0.0,0.0,0.0,0.0,31.0,0.0,0.0,1.0,0.0
+21,tt0285351,English,Comedy; Romance,Nominated for 4 Primetime Emmys. Another 16 nominations.,0.0,20.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,tt0285356,English,Drama,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,tt0286378,Portuguese,Action; Adventure; Drama,3 wins & 6 nominations.,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,tt0288739,Slovenian,,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,tt0290015,German,Drama; Comedy; Romance,6 wins & 4 nominations.,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,tt0291502,English; Greek; Italian,Comedy; Romance,7 wins & 6 nominations.,7.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,tt0292414,English,Drama,9 wins & 30 nominations.,9.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,tt0292800,English,Animation; Comedy; Family,Won 1 Primetime Emmy. Another 1 win & 6 nominations.,2.0,6.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+29,tt0294362,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,tt0295297,English,Adventure; Family; Fantasy,Nominated for 3 BAFTA Film Awards. Another 11 wins & 39 nominations.,11.0,42.0,0.0,0.0,0.0,3.0,11.0,0.0,0.0,0.0,0.0
+31,tt0295613,English,Drama; Crime,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,tt0296307,English,Comedy; Drama,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,tt0297181,English; Hungarian; Russian,Action; Adventure; Comedy,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,tt0298130,English,Horror; Mystery,14 wins & 11 nominations.,14.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,tt0298617,English,Animation; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,tt0299547,English,Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,tt0303421,Spanish,Comedy; Drama; Family,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,tt0303430,English,Documentary; History; War,3 wins & 3 nominations.,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,tt0303635,English,Drama; Family,Nominated for 1 Golden Globe. Another 2 wins & 14 nominations.,2.0,15.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0
+40,tt0304649,English,Short; Family; Fantasy,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,tt0307716,English,Comedy,Nominated for 1 Primetime Emmy. Another 1 nomination.,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,tt0307734,English,Crime; Drama,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,tt0309122,English,Adventure; Sci-Fi,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,tt0309125,,Animation; Action; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,tt0311087,,Documentary,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+46,tt0313025,English,Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,tt0313038,English,Game-Show; Reality-TV; Romance,9 wins & 8 nominations.,9.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+48,tt0315722,English,,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49,tt0316602,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,tt0317842,Hebrew,Drama,15 wins & 4 nominations.,15.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,tt0318038,English,Drama; Short; Sci-Fi,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+52,tt0319935,English,Animation; Family,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,tt0319938,English,Drama; Comedy,3 wins & 6 nominations.,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,tt0320808,English,Animation; Adventure; Comedy,8 wins & 8 nominations.,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,tt0320809,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,tt0324681,English,Action; Adventure; Fantasy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,tt0326731,Swedish,Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,tt0336052,English,Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+59,tt0336910,English,Comedy; Crime,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,tt0337534,English,,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,tt0337714,English,Animation; Short; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,tt0338434,English,Biography; Drama; War,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,tt0340251,Portuguese,Short,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,tt0340427,English,,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+65,tt0344195,Portuguese,,15 nominations.,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+66,tt0346091,English,Documentary,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+67,tt0351031,English,Drama; Romance,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,tt0354262,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,tt0360243,German,Talk-Show,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70,tt0380083,German,Crime,7 wins & 7 nominations.,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71,tt0383070,Spanish,News; Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+72,tt0411465,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+73,tt0439924,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,tt0457440,English,Animation; Short; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,tt0472578,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+76,tt0487835,Portuguese,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+77,tt0841930,Italian,Short; Comedy,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78,tt0896680,German,Crime,4 wins & 9 nominations.,4.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,tt1383715,English,Family; Music,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,tt2777562,,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+81,tt0167260,English; Quenya; Old English; Sindarin,Adventure; Drama; Fantasy,Won 11 Oscars. Another 174 wins & 113 nominations.,185.0,113.0,0.0,0.0,0.0,0.0,174.0,0.0,11.0,0.0,0.0
+82,tt0191133,English,Comedy; Drama; Music,4 wins & 11 nominations.,4.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+83,tt0285823,English; Spanish,Action; Thriller,3 wins & 4 nominations.,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+84,tt0289944,English,Thriller,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,tt0306047,English,Comedy,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,tt0314197,English; Spanish,Drama; Romance; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+87,tt0317910,English,Documentary; Biography; History,Won 1 Oscar. Another 11 wins & 14 nominations.,12.0,14.0,0.0,0.0,0.0,0.0,11.0,0.0,1.0,0.0,0.0
+88,tt0320037,English,Comedy; Music; Talk-Show,Won 3 Primetime Emmys. Another 44 nominations.,3.0,44.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0
+89,tt0325258,English,Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,tt0327437,English; Cantonese; French; German; Hindi; Turkish,Action; Adventure; Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,tt0328034,English,Comedy; Drama; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,tt0329575,English,Drama; History; Sport,Nominated for 7 Oscars. Another 6 wins & 36 nominations.,6.0,43.0,0.0,7.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+93,tt0332375,English,Comedy; Drama,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+94,tt0337639,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,tt0338574,English,Comedy; Drama; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,tt0346947,Spanish,Comedy; Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+97,tt0348593,English,Comedy; Drama,2 wins & 7 nominations.,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,tt0348904,Spanish; Portuguese,Drama; History; Romance,14 wins & 22 nominations.,14.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,tt0353168,English,Documentary; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,tt0354463,English,Short; Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,tt0357388,English,Game-Show; Music; Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,tt0362404,English,Comedy,12 nominations.,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,tt0363307,English,Game-Show; Reality-TV,5 wins & 34 nominations.,5.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+104,tt0364146,English,Action; Drama,Nominated for 1 Primetime Emmy. Another 1 win & 2 nominations.,1.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+105,tt0365974,English,Comedy,9 nominations.,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+106,tt0367273,Portuguese,Comedy; Romance,8 nominations.,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,tt0367276,English,Comedy; Family,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+108,tt0367298,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,tt0367854,English,Horror,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,tt0368026,English,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,tt0369910,English,Drama; Family,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+112,tt0372167,German,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,tt0373474,English,Crime; Drama; Mystery,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+114,tt0374360,Spanish,Romance,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+115,tt0374900,English,Comedy,10 wins & 22 nominations.,10.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,tt0377066,English,Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+117,tt0378194,English; Cantonese; Mandarin; Spanish,Action; Crime; Drama,Nominated for 2 Golden Globes. Another 21 wins & 72 nominations.,21.0,74.0,0.0,0.0,2.0,0.0,21.0,0.0,0.0,0.0,0.0
+118,tt0382395,Spanish,Documentary; News,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,tt0382898,Spanish; Basque; English; French,Documentary,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,tt0383460,English; Somali,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,tt0383846,Serbian,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+122,tt0385373,German,Comedy,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+123,tt0385374,Spanish,News,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+124,tt0385664,English,Comedy; Horror; Musical,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+125,tt0385842,Spanish,Thriller,2 wins & 10 nominations.,2.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+126,tt0386907,English,Action; Drama; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+127,tt0387541,English,Drama; Action; Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,tt0387564,English,Horror; Mystery; Thriller,8 wins & 10 nominations.,8.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+129,tt0387714,English,Animation; Drama; Family,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,tt0388838,French; English; Cantonese,Drama; Music; Romance,2 wins & 8 nominations.,2.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+131,tt0389121,English,Biography; Drama; Mystery,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+132,tt0390205,Korean,Drama; History,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+133,tt0395378,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+134,tt0395560,Portuguese; Spanish; French; English,Documentary,6 wins & 2 nominations.,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,tt0397756,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+136,tt0397800,English,Animation; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,tt0398408,English,Comedy,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+138,tt0398883,Italian,Crime; Drama; Romance,14 wins & 17 nominations.,14.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,tt0400973,Spanish,,3 wins & 7 nominations.,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+140,tt0401224,English; Arabic,Action; Drama; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+141,tt0406960,English,Action; Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+142,tt0413053,Portuguese; Russian,Drama; Crime,5 wins & 2 nominations.,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+143,tt0413527,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+144,tt0415399,German,Action; Crime; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+145,tt0417737,Swiss German,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+146,tt0418141,English,Animation; Comedy; Mystery,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+147,tt0420318,Polish,Comedy; Drama,13 wins & 7 nominations.,13.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+148,tt0424593,Catalan,Documentary; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+149,tt0425271,English,Comedy; Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+150,tt0426893,English,Adult,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+151,tt0428517,English,Adult; Drama; Horror,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+152,tt0429149,English,Adult,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+153,tt0429293,Spanish,Talk-Show,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,tt0429301,Hebrew,Drama; Romance,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+155,tt0432649,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,tt0432967,German,Drama; Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+157,tt0433458,English,Adventure; Drama; Fantasy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+158,tt0435926,Portuguese,Drama; Romance,1 win & 15 nominations.,1.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,tt0436374,Spanish; German,Drama; Horror; Mystery,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+160,tt0439341,English,Animation; Comedy; Family,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+161,tt0439342,English,Music,3 wins & 3 nominations.,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+162,tt0440788,English,Adult,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+163,tt0441970,Japanese; Russian; Mandarin,Drama; Romance; War,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+164,tt0447435,English,Drama; Short,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,tt0447584,Portuguese,Comedy,6 wins & 6 nominations.,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166,tt0448948,English,,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+167,tt0455373,Spanish,Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+168,tt0465778,German,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+169,tt0473394,English,Animation; Short; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+170,tt0498109,,Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+171,tt0764672,Filipino; Tagalog,News,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+172,tt0774034,English,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+173,tt0784828,English; Icelandic,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+174,tt0877538,German,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,tt0910586,English,Documentary; History; War,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+176,tt0956042,English; Zulu,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+177,tt1182335,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,tt1734537,English,Crime; Drama; Mystery,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,tt4354698,English,Short; Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,tt0121766,English,Action; Adventure; Fantasy,Nominated for 1 Oscar. Another 25 wins & 51 nominations.,25.0,52.0,0.0,1.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0
+181,tt0216584,English,Comedy; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+182,tt0229881,Portuguese,,8 wins & 20 nominations.,8.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,tt0257516,English,Comedy; Horror,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+184,tt0340163,English,Action; Crime; Drama,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+185,tt0365885,English,Comedy; Drama,5 wins & 12 nominations.,5.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+186,tt0368413,English,Romance; Thriller,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+187,tt0380389,English; Spanish,Drama; Romance; Sport,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+188,tt0388727,Danish,Drama,7 wins & 5 nominations.,7.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+189,tt0390614,Hindi,Comedy; Drama; Musical,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+190,tt0400525,English,Comedy; Crime; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+191,tt0401855,English; French; Hungarian,Action; Adventure; Fantasy,2 wins & 6 nominations.,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+192,tt0403508,English; Greek; Spanish,Comedy; Drama; Family,1 win & 14 nominations.,1.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+193,tt0407304,English,Adventure; Sci-Fi; Thriller,Nominated for 3 Oscars. Another 13 wins & 40 nominations.,13.0,43.0,0.0,3.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0
+194,tt0420982,Russian; English,Comedy; Crime; Thriller,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+195,tt0424699,English; Spanish,,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+196,tt0430357,English; Spanish,Action; Crime; Thriller,1 win & 9 nominations.,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+197,tt0430912,English,Crime; Mystery; Thriller,8 wins & 6 nominations.,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+198,tt0432236,English,Adventure; Drama; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+199,tt0435625,English,Adventure; Horror; Thriller,8 wins & 17 nominations.,8.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+200,tt0435937,English,Drama; Horror; Mystery,4 wins & 1 nomination.,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+201,tt0436569,Mandarin; English,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+202,tt0437696,English,Documentary; Reality-TV,4 wins & 4 nominations.,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+203,tt0439774,English,Documentary,5 wins.,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+204,tt0440981,Spanish,Comedy,27 wins & 31 nominations.,27.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+205,tt0441633,Finnish,Comedy; Drama,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+206,tt0441793,German,Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+207,tt0441919,English; Filipino; Tagalog,Action; Adventure; Drama,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+208,tt0448962,English,Comedy,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+209,tt0450077,Russian,Comedy,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+210,tt0450979,English,Documentary,5 wins.,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+211,tt0452594,English,Comedy; Drama; Romance,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+212,tt0453979,Mandarin,Documentary,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+213,tt0454082,English,Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+214,tt0454883,Bulgarian; Hungarian; Romanian; Serbo-Croatian,Animation; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+215,tt0454921,English; Cantonese,Biography; Drama,Nominated for 1 Oscar. Another 11 wins & 24 nominations.,11.0,25.0,0.0,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0
+216,tt0455467,English,Drama; Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+217,tt0456207,Spanish,Comedy,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+218,tt0463850,English; Spanish; Navajo,Drama; Sci-Fi; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+219,tt0463953,English,Comedy; Drama; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+220,tt0464768,Portuguese,Romance,21 nominations.,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+221,tt0465315,English,Comedy; Game-Show,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+222,tt0465346,English,Documentary,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+223,tt0470642,English,Comedy; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+224,tt0473488,English; Spanish,Crime; Drama,7 wins & 9 nominations.,7.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+225,tt0475119,English,Short; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+226,tt0476078,Portuguese,Drama; Romance,3 wins & 32 nominations.,3.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+227,tt0476265,English,Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+228,tt0478409,French,Short; Drama; History,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+229,tt0478834,English,Drama; War,4 wins & 6 nominations.,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+230,tt0479219,English,Action; Horror,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+231,tt0482109,English,Comedy,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+232,tt0483716,English,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+233,tt0484211,English,Documentary,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+234,tt0484334,English,Comedy; Family,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+235,tt0485241,French,Drama,7 wins & 7 nominations.,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+236,tt0486062,English,Sport,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+237,tt0486545,German,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+238,tt0486555,English,Short; Comedy; Family,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+239,tt0487887,Portuguese,Action; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+240,tt0491587,English,Short; Drama; Music,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+241,tt0491877,English,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+242,tt0496424,English,Comedy,Won 6 Golden Globes. Another 80 wins & 310 nominations.,86.0,310.0,0.0,0.0,0.0,0.0,80.0,0.0,0.0,6.0,0.0
+243,tt0499262,Turkish,Drama,18 wins & 7 nominations.,18.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+244,tt0499603,English; Spanish,Comedy; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+245,tt0758789,English,Drama,Nominated for 3 Golden Globes. Another 3 wins & 23 nominations.,3.0,26.0,0.0,0.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0
+246,tt0759475,English,Comedy; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+247,tt0768805,English,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+248,tt0768837,Mandarin; Hokkien; English; Cantonese; Mandarin; Hokkien; English,Drama,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+249,tt0772137,English,Comedy; Drama; Romance,5 wins & 25 nominations.,5.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+250,tt0795415,English,Short; Drama; Sport,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+251,tt0799857,German,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+252,tt0800968,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+253,tt0807745,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+254,tt0809622,English,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,tt0816201,English,Short,11 wins.,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+256,tt0816401,English,Animation; Action; Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+257,tt0819676,English,Sport,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+258,tt0827740,English,History,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+259,tt0828594,Dutch,Comedy; Drama,4 wins & 1 nomination.,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+260,tt0829416,English,Short; Comedy,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+261,tt0844974,English,Adult,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+262,tt0845456,English,Adult,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,tt0856108,Spanish,,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+264,tt0871862,German,Comedy; Drama,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+265,tt0872202,Mandarin; English,Adventure; Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+266,tt0877057,Japanese,Animation; Crime; Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+267,tt0878143,Dutch,Short; Drama,6 wins & 1 nomination.,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+268,tt0881961,English,Comedy; Drama; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+269,tt0883995,Thai; English,Comedy; Crime; Drama,5 wins & 9 nominations.,5.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270,tt0884868,English; Japanese; Mandarin,Crime; Drama; History,5 wins & 7 nominations.,5.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+271,tt0896576,Russian; Yiddish; Hebrew,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+272,tt0901702,Irish; English,Family,4 wins & 5 nominations.,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+273,tt0912606,English,Sport,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+274,tt0914865,German,Comedy,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+275,tt0920486,German,Comedy; Crime,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+276,tt0950712,English; French,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+277,tt0972554,English; English,Crime; Drama; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+278,tt0994314,Japanese; English,Animation; Action; Adventure,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+279,tt1094677,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280,tt1259811,Filipino; Tagalog,Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+281,tt1307479,English,Game-Show,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+282,tt1641424,Spanish,Action,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+283,tt3651388,English,Documentary; News,36 wins & 20 nominations.,36.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+284,tt0379976,English; French; Spanish,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+285,tt0389722,English,Horror; Thriller,12 nominations.,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+286,tt0407168,English,Short; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+287,tt0425413,English,Comedy; Romance; Sport,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+288,tt0431842,Arabic; Danish,Action; Drama,5 wins & 6 nominations.,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+289,tt0452608,English,Action; Sci-Fi; Thriller,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+290,tt0452692,English,Crime; Drama; Mystery,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+291,tt0458500,Spanish,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+292,tt0469623,English,Drama,4 wins & 1 nomination.,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+293,tt0497972,English,Comedy; Drama; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+294,tt0499448,English,Action; Adventure; Family,2 wins & 19 nominations.,2.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+295,tt0758730,English,Action; Horror; Sci-Fi,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+296,tt0758758,English; Danish,Adventure; Biography; Drama,Nominated for 2 Oscars. Another 23 wins & 99 nominations.,23.0,101.0,0.0,2.0,0.0,0.0,23.0,0.0,0.0,0.0,0.0
+297,tt0780595,English,Action,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+298,tt0783303,English,Drama; Mystery,3 wins & 6 nominations.,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+299,tt0814031,English,Documentary; Biography; History,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+300,tt0819906,Hungarian,Comedy; Crime; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+301,tt0829482,English,Comedy,10 wins & 24 nominations.,10.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+302,tt0835005,German,Drama; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+303,tt0871510,Hindi,Drama; Family; Sport,26 wins & 18 nominations.,26.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+304,tt0876295,English,Documentary; Music,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+305,tt0877621,French,Drama; Musical; Romance,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+306,tt0899270,English,Biography; Drama; History,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+307,tt0918927,English,Drama; Mystery,Nominated for 5 Oscars. Another 26 wins & 88 nominations.,26.0,93.0,0.0,5.0,0.0,0.0,26.0,0.0,0.0,0.0,0.0
+308,tt0923928,English; Spanish,Documentary,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+309,tt0925212,Portuguese,Documentary,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+310,tt0926063,English,Comedy; Horror,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+311,tt0929730,English,Action; Drama; Romance,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+312,tt0965393,English,Game-Show; Music; Reality-TV,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+313,tt0968243,Spanish,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+314,tt0968776,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+315,tt0970184,English,Documentary,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,2.0,5.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+316,tt0972408,English,Short; Horror; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+317,tt0988065,Spanish,Drama,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+318,tt0996557,English,Comedy; Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+319,tt0999918,English,Short; Action,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+320,tt1001562,English,Comedy; Crime,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+321,tt1023351,English,Comedy,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+322,tt1024640,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+323,tt1027890,Spanish,Comedy; Crime; Drama,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+324,tt1037186,English,Documentary; Talk-Show,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+325,tt1059972,French,Short; Comedy,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+326,tt1068929,Finnish,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+327,tt1069153,English,Comedy; Drama,1 win & 9 nominations.,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+328,tt1073118,Haitian; Spanish,Drama,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+329,tt1073233,English,Action; Adventure; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+330,tt1093824,English; Spanish,Documentary,Nominated for 1 Oscar. Another 2 wins & 14 nominations.,2.0,15.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+331,tt1099212,English,Drama; Fantasy; Romance,28 wins & 16 nominations.,28.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+332,tt1102306,Russian,Documentary; Short,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+333,tt1113760,Catalan,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+334,tt1117563,English; Japanese; Spanish; Portuguese; Thai,Animation; Action; Crime,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+335,tt1124373,English,Crime; Drama; Thriller,Won 1 Golden Globe. Another 10 wins & 57 nominations.,11.0,57.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,1.0,0.0
+336,tt1147970,Portuguese,Drama; Fantasy; History,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+337,tt1159598,Portuguese,Crime; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+338,tt1160317,English,Horror; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+339,tt1174047,French,Drama,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+340,tt1178197,Bulgarian; German; Italian; Slovenian; English; Hungarian,Drama,8 wins & 6 nominations.,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+341,tt1179454,French,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+342,tt1180321,English,Short; Family,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+343,tt1180574,Spanish; English,Crime; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+344,tt1189259,English,Drama,5 wins & 2 nominations.,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+345,tt1191972,German,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+346,tt1194349,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+347,tt1196006,Japanese,Animation; Action; Drama,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+348,tt1198194,English; Russian; Japanese,Action; Sci-Fi,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+349,tt1205046,Catalan; Spanish; French; English,Documentary; Biography; History,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+350,tt1213644,English,Comedy,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+351,tt1225901,English,Comedy; Drama; Romance,2 wins & 17 nominations.,2.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+352,tt1236247,English,Documentary; Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+353,tt1239313,Mandarin,Comedy,6 wins & 4 nominations.,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+354,tt1241331,English,Comedy; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+355,tt1244649,Spanish,News,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+356,tt1245687,English,Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+357,tt1250727,English,Adult,2 wins & 10 nominations.,2.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+358,tt1256139,Portuguese,Drama; Mystery; Thriller,26 wins & 24 nominations.,26.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+359,tt1264068,English,Documentary; Sci-Fi,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+360,tt1278298,English,Short; Mystery,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+361,tt1281970,English,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+362,tt1282464,English,Adult,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363,tt1287830,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+364,tt1294182,English; Swahili; French,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+365,tt1313257,English,Drama; Fantasy; Horror,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+366,tt1334272,English,Animation; Short; Comedy,Won 1 Primetime Emmy. Another 3 wins & 3 nominations.,4.0,3.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0
+367,tt1334411,None,Short; Horror,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+368,tt1334519,Hebrew,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+369,tt1351320,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+370,tt1352077,English,Documentary; History,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+371,tt1352832,English,Animation; Short,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+372,tt1360068,English,Documentary; Short,Nominated for 1 Oscar. Another 5 wins & 1 nomination.,5.0,2.0,0.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+373,tt1382454,English,Animation; Short; Comedy,Nominated for 1 Oscar. Another 1 win.,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+374,tt1404752,English,Sci-Fi; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+375,tt1445710,English,Animation; Short,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+376,tt1451800,Spanish,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+377,tt1461246,English; Italian; Russian,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+378,tt1467241,Portuguese,Comedy,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+379,tt1479285,Polish,Short; Drama,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+380,tt1521647,English,Short; Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+381,tt1545465,English,Short; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+382,tt1569554,Portuguese,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+383,tt1601975,English,Animation; Family,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+384,tt1690398,Korean,Comedy; Drama; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+385,tt1880430,Spanish,Family; News; Talk-Show,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+386,tt1896877,English,Music,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+387,tt2153919,German,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388,tt2290863,English,News,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+389,tt3620536,Czech,Documentary; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+390,tt0076759,English,Action; Adventure; Fantasy,Won 6 Oscars. Another 48 wins & 28 nominations.,54.0,28.0,0.0,0.0,0.0,0.0,48.0,0.0,6.0,0.0,0.0
+391,tt0409459,English,Action; Drama; Mystery,12 wins & 20 nominations.,12.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+392,tt0473075,English,Action; Adventure; Fantasy,1 win & 9 nominations.,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+393,tt0473298,English; Swahili,Action; Adventure; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+394,tt0758752,English,Comedy; Drama; Romance,Nominated for 2 Golden Globes. Another 1 win & 4 nominations.,1.0,6.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0
+395,tt0800320,English,Action; Adventure; Fantasy,4 wins & 12 nominations.,4.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+396,tt0842926,English,Comedy; Drama; Romance,Nominated for 4 Oscars. Another 28 wins & 116 nominations.,28.0,120.0,0.0,4.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0
+397,tt0878804,English,Biography; Drama; Sport,Won 1 Oscar. Another 7 wins & 29 nominations.,8.0,29.0,0.0,0.0,0.0,0.0,7.0,0.0,1.0,0.0,0.0
+398,tt0892769,English,Animation; Action; Adventure,Nominated for 2 Oscars. Another 25 wins & 58 nominations.,25.0,60.0,0.0,2.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0
+399,tt1034032,English,Action; Sci-Fi; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+400,tt1053424,English; Spanish,Action; Crime; Sci-Fi,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401,tt1090753,English,Short; Action; Adventure,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+402,tt1109488,English,Animation; Comedy; Sci-Fi,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+403,tt1114677,English,Comedy; Drama; Family,6 wins & 10 nominations.,6.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+404,tt1126591,English; Ukrainian,Drama; Music; Musical,Won 1 Golden Globe. Another 5 wins & 17 nominations.,6.0,17.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,1.0,0.0
+405,tt1188995,Finnish,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+406,tt1205503,English,Biography,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+407,tt1260915,Portuguese; French,History; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+408,tt1277973,Spanish,Drama,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+409,tt1285295,Spanish,Comedy; Musical,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+410,tt1297921,English,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+411,tt1320286,English,Biography; Drama; Romance,Nominated for 3 Golden Globes. Another 1 win & 25 nominations.,1.0,28.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0
+412,tt1321805,English,Comedy,1 win & 7 nominations.,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+413,tt1326218,English,Horror; Thriller,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+414,tt1329539,English,Action; History; War,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+415,tt1331329,English,Action; Horror; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+416,tt1334303,Spanish,History,5 wins & 1 nomination.,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+417,tt1340456,English,Action; Crime,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+418,tt1353137,Portuguese,Action; Crime,7 nominations.,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+419,tt1355237,English,Animation; Comedy,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420,tt1370835,English; Swahili,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+421,tt1382679,German,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422,tt1385816,German,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+423,tt1407084,English,Action; Crime; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+424,tt1407326,English,Comedy,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+425,tt1408430,English,Documentary; Biography; Sport,Nominated for 1 Primetime Emmy. Another 4 wins & 17 nominations.,4.0,18.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+426,tt1408432,Spanish,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427,tt1411254,English,Comedy,2 wins & 10 nominations.,2.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+428,tt1414378,English,Action; Adventure; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+429,tt1419986,Spanish,Short; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+430,tt1424043,Filipino; Tagalog,Drama,2 wins & 8 nominations.,2.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+431,tt1442402,Spanish,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+432,tt1442497,English,Sport,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+433,tt1444680,Catalan; Spanish; French,Adventure; History,3 wins & 10 nominations.,3.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+434,tt1461312,English,Adventure; Drama; Fantasy,Nominated for 2 Primetime Emmys. Another 8 wins & 14 nominations.,8.0,16.0,2.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+435,tt1463140,Portuguese,Comedy; Talk-Show,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+436,tt1467094,Spanish,News,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+437,tt1468760,English,Talk-Show,4 wins & 9 nominations.,4.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+438,tt1473826,English,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+439,tt1477076,English,Horror; Mystery,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+440,tt1483421,Cantonese,Action; Crime; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+441,tt1504688,Portuguese; French,Comedy,1 win & 7 nominations.,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+442,tt1529233,Italian,Comedy; Musical,7 wins & 8 nominations.,7.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+443,tt1529670,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+444,tt1534042,Icelandic,Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+445,tt1538426,Portuguese,Crime,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+446,tt1546653,English; Korean; Danish,Documentary; Comedy,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+447,tt1560160,Spanish,Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+448,tt1564585,English,Action; Sci-Fi; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+449,tt1567138,English,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+450,tt1568921,Japanese; English,Animation; Adventure; Family,11 wins & 6 nominations.,11.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+451,tt1568922,Dutch,Documentary; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+452,tt1574668,Finnish,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+453,tt1586081,English,Music; Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+454,tt1590089,Japanese,Drama; Thriller,8 wins & 17 nominations.,8.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+455,tt1613063,English,Reality-TV,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+456,tt1615929,Portuguese,Drama,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+457,tt1621444,English,Documentary; Biography,1 win & 12 nominations.,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+458,tt1622696,English,Animation; Action; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+459,tt1625572,Portuguese,Comedy,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+460,tt1667838,Hindi,Comedy; Drama; Romance,9 nominations.,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+461,tt1668912,English,Sport,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+462,tt1686898,Czech,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+463,tt1690134,Filipino,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+464,tt1691338,English; Spanish,Animation; Comedy; Sci-Fi,Nominated for 1 Primetime Emmy. Another 1 win & 2 nominations.,1.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+465,tt1691832,Mandarin; Cantonese; Japanese,Action; Sci-Fi; Thriller,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+466,tt1697785,English,Action; Drama; Sci-Fi,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+467,tt1706670,French,Animation,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+468,tt1733291,English,Adult,5 wins & 11 nominations.,5.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+469,tt1743384,Portuguese,Drama; History; Mystery,3 wins & 11 nominations.,3.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+470,tt1748326,English,Animation,4 wins & 7 nominations.,4.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+471,tt1758756,English,Short; Comedy; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+472,tt1763350,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+473,tt1769411,English,Crime; Drama,6 wins & 11 nominations.,6.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+474,tt1773120,English,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+475,tt1776812,English,Short; Action; Sci-Fi,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+476,tt1785689,German,Documentary; Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+477,tt1787281,German; English,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+478,tt1792070,Albanian,Short; Drama; Family,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+479,tt1805761,Spanish,Comedy,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+480,tt1811377,Danish,Animation; Short; Comedy,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+481,tt1820766,English,Action; Drama; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+482,tt1825006,,Short; Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+483,tt1826832,Spanish,Documentary; Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+484,tt1863034,English,Documentary; Talk-Show,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+485,tt1876552,English; Irish,Drama; History,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+486,tt1887969,Portuguese,Comedy; Romance,3 wins & 7 nominations.,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+487,tt1929482,English,Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+488,tt1995532,English,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+489,tt2094217,Portuguese,Comedy; Game-Show; Talk-Show,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+490,tt2184186,English,Comedy; Game-Show; Sport,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+491,tt2396815,Arabic,Drama; History,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+492,tt2700330,Spanish,Documentary; Biography; Sport,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+493,tt4146594,Persian,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+494,tt4208288,Filipino,Documentary,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+495,tt4209028,Filipino; Tagalog,News,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+496,tt4353976,English,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+497,tt0337692,English; French,Adventure; Drama; Romance,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+498,tt0448694,English; Spanish,Animation; Action; Adventure,Nominated for 1 Oscar. Another 7 wins & 42 nominations.,7.0,43.0,0.0,1.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0
+499,tt0848228,English; Russian,Action; Sci-Fi,Nominated for 1 Oscar. Another 34 wins & 75 nominations.,34.0,76.0,0.0,1.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0
+500,tt1024648,English; Persian,Biography; Drama; History,Won 3 Oscars. Another 92 wins & 150 nominations.,95.0,150.0,0.0,0.0,0.0,0.0,92.0,0.0,3.0,0.0,0.0
+501,tt1164982,English,Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+502,tt1201607,English,Adventure; Drama; Fantasy,Nominated for 3 Oscars. Another 46 wins & 87 nominations.,46.0,90.0,0.0,3.0,0.0,0.0,46.0,0.0,0.0,0.0,0.0
+503,tt1268799,English,Adventure; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+504,tt1270798,English; German; French; Spanish; Russian,Action; Adventure; Sci-Fi,20 wins & 35 nominations.,20.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+505,tt1324999,English; Portuguese,Adventure; Drama; Fantasy,11 wins & 21 nominations.,11.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+506,tt1325019,English,Drama,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+507,tt1340800,English; Russian; Hungarian; French,Drama; Mystery; Thriller,Nominated for 3 Oscars. Another 34 wins & 88 nominations.,34.0,91.0,0.0,3.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0
+508,tt1418380,English; Dutch; Chinese; Hindi; Zulu,Drama,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+509,tt1438539,Dutch,Drama,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+510,tt1441326,English,Drama; Mystery; Thriller,22 wins & 68 nominations.,22.0,68.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+511,tt1472464,French; Estonian,Drama,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+512,tt1527186,English,Drama,32 wins & 86 nominations.,32.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+513,tt1541874,English,Drama; Sci-Fi,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+514,tt1563738,English,Drama; Romance,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+515,tt1564349,English,Drama; Family,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+516,tt1584923,English,Documentary; Music,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+517,tt1596343,English; Portuguese; Spanish; Italian,Action; Crime; Thriller,8 wins & 19 nominations.,8.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+518,tt1596346,English,Biography; Drama; Family,1 win & 12 nominations.,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+519,tt1611224,English,Action; Fantasy; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+520,tt1624996,English,Drama; Horror; Thriller,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+521,tt1637725,English; Ukrainian,Animation; Comedy; Fantasy,Nominated for 1 Oscar. Another 13 wins & 26 nominations.,13.0,27.0,0.0,1.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0
+522,tt1650062,English,Mystery; Sci-Fi; Thriller,11 wins & 62 nominations.,11.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+523,tt1650536,German; English,Adventure; Comedy,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+524,tt1677734,Swedish,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+525,tt1694570,English,Horror,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+526,tt1699114,English,Animation; Action; Sci-Fi,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+527,tt1712502,Italian,Mystery; Sci-Fi; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+528,tt1715802,English,Documentary; Drama; Family,5 wins & 6 nominations.,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+529,tt1720254,Hindi; Panjabi,Comedy; Drama; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+530,tt1728102,English,Action; Crime; Drama,2 wins & 6 nominations.,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+531,tt1730374,English,Thriller,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+532,tt1735335,English,Documentary; Drama; History,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+533,tt1742028,Japanese,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+534,tt1753561,English,Short; Comedy; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+535,tt1753846,English; Persian,Documentary; Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+536,tt1754795,French,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+537,tt1772240,English,Horror; Mystery; Sci-Fi,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+538,tt1772752,English,Comedy; Drama; Family,7 wins & 12 nominations.,7.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+539,tt1784167,Spanish,Drama,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+540,tt1786704,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+541,tt1787777,English,Documentary,3 wins & 9 nominations.,3.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+542,tt1787989,Portuguese,Comedy,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+543,tt1790914,English,Animation; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+544,tt1792621,English,Documentary; Action; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+545,tt1810633,English,Animation; Comedy; Family,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+546,tt1811399,English,Comedy; News,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+547,tt1819781,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+548,tt1828246,English,Action; Drama; Thriller,Nominated for 2 Primetime Emmys. Another 1 win & 1 nomination.,1.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+549,tt1838775,English,Talk-Show,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+550,tt1840973,French,Crime; Drama,9 wins & 2 nominations.,9.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+551,tt1845307,English; Korean; Yiddish; Hebrew; Spanish; Arabic; Ukrainian,Comedy,Won 1 Primetime Emmy. Another 2 wins & 20 nominations.,3.0,20.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0
+552,tt1851101,French,Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+553,tt1853009,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+554,tt1863305,Spanish,Horror; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+555,tt1877740,English,Comedy; Drama,Nominated for 1 Primetime Emmy. Another 1 win & 26 nominations.,1.0,27.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+556,tt1884501,Spanish,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+557,tt1891892,Dutch,Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+558,tt1899111,English,Short; Action; Adventure,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+559,tt1907676,Korean,Short; Action; Drama,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+560,tt1909841,Filipino; Tagalog,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+561,tt1922777,English,Horror; Mystery,3 wins & 13 nominations.,3.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+562,tt1922836,Spanish,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+563,tt1924273,Spanish; English,Adventure; Comedy; Fantasy,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+564,tt1930271,Portuguese,Short; Drama,6 wins & 13 nominations.,6.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+565,tt1942152,Finnish,Talk-Show,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+566,tt1948209,Portuguese; French; Russian,Biography; Drama; Romance,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+567,tt1951319,German,Game-Show,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+568,tt1955162,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+569,tt1959644,Portuguese,Comedy; Romance,2 wins & 6 nominations.,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+570,tt1967616,English,Adult,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+571,tt1979230,Hungarian,Short,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+572,tt1986005,English,Short; Comedy; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+573,tt1989646,English,Comedy; Drama; Music,10 wins & 5 nominations.,10.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+574,tt1990380,English; Spanish,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+575,tt2005238,English,Short; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+576,tt2006939,English,Reality-TV,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+577,tt2007504,English,Short; Drama; Horror,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+578,tt2011271,English,Documentary; Comedy; History,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+579,tt2011471,Spanish,Drama,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+580,tt2012041,English,Short; Romance; Sci-Fi,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+581,tt2017030,English,Short; Drama; News,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+582,tt2055820,Catalan,News; Talk-Show,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+583,tt2059177,,Short; Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+584,tt2059323,Swiss German,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+585,tt2066980,English,Short; Drama,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+586,tt2070791,English,Action; Adventure; Drama,Won 1 Primetime Emmy. Another 3 wins & 11 nominations.,4.0,11.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0
+587,tt2072241,Swedish,Drama,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+588,tt2072899,Portuguese,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+589,tt2088920,English,Short; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+590,tt2088993,English,Sport,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+591,tt2093350,Portuguese,Comedy; Talk-Show,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+592,tt2094209,English,Comedy,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+593,tt2104412,English,Action; Crime; Mystery,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+594,tt2106460,Italian,Comedy,4 wins & 4 nominations.,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+595,tt2107893,English,Adventure; Comedy; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+596,tt2109059,English,Documentary; War,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+597,tt2111452,English,Short; Sci-Fi,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+598,tt2111684,Hebrew,Action; Crime,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+599,tt2116841,English,Adult,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+600,tt2118720,Filipino; Tagalog,Horror; Mystery,2 wins & 27 nominations.,2.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+601,tt2124003,Arabic,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+602,tt2134254,German,Comedy,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+603,tt2136972,English,Comedy; Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+604,tt2158609,English,Short; Comedy; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+605,tt2158640,English,Documentary; Short,Won 1 Primetime Emmy. Another 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+606,tt2164114,Korean,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+607,tt2164274,English,Comedy,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+608,tt2166160,Portuguese,Drama; Sport,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+609,tt2167895,Portuguese,Drama,13 wins & 7 nominations.,13.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+610,tt2170687,English,Comedy,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+611,tt2187850,Spanish,Biography; Crime; Drama,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+612,tt2191148,English,Drama,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+613,tt2193209,English,Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+614,tt2197536,,Game-Show; Music; Reality-TV,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+615,tt2197566,Hebrew,Drama,13 wins & 5 nominations.,13.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+616,tt2197797,English,Drama; Fantasy; Mystery,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+617,tt2243407,Portuguese,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+618,tt2258787,Hebrew,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+619,tt2261391,English,Action; Drama,4 wins & 16 nominations.,4.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+620,tt2262521,Korean,Drama,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+621,tt2265154,English,Documentary; Biography,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+622,tt2266639,English,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+623,tt2287993,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+624,tt2339875,Japanese,Animation; Action; Romance,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+625,tt2342389,English,Adult,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+626,tt2354136,English,Talk-Show,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+627,tt2359171,Portuguese,Documentary,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+628,tt2362760,Korean,Comedy; Drama; Romance,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+629,tt2363255,Bengali,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+630,tt2377190,English,Comedy; Game-Show,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+631,tt2384532,Korean,Short; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+632,tt2386170,English,Documentary,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+633,tt2396758,English,Biography; Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+634,tt2401233,English,Animation,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+635,tt2403933,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+636,tt2404029,English,Drama; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+637,tt2465378,English,Documentary; Biography; History,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+638,tt2494018,English,Adult,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+639,tt2498938,German,Talk-Show,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+640,tt2519480,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+641,tt2523506,English,Documentary,Nominated for 1 Primetime Emmy. Another 3 nominations.,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+642,tt2529232,Filipino; Tagalog,Drama; Fantasy; Musical,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+643,tt2542372,English,Short; Drama; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+644,tt2624860,English,Musical,Won 2 Primetime Emmys. Another 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+645,tt2635406,English,Action; Drama; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+646,tt2642860,English,Documentary; Comedy,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+647,tt2690730,Hebrew,Drama,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+648,tt2825222,English,Crime; Horror; Mystery,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+649,tt3017196,English,Adult,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+650,tt3020768,English,News,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+651,tt3306650,English,News,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+652,tt3777050,Hindi,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+653,tt3785046,French,Documentary; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+654,tt3788106,,Animation; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+655,tt4210334,Filipino; Tagalog,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+656,tt4287584,Filipino; Tagalog,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+657,tt0062622,English; Russian,Adventure; Mystery; Sci-Fi,Won 1 Oscar. Another 13 wins & 7 nominations.,14.0,7.0,0.0,0.0,0.0,0.0,13.0,0.0,1.0,0.0,0.0
+658,tt0062622,English; Russian,Adventure; Mystery; Sci-Fi,Won 1 Oscar. Another 13 wins & 7 nominations.,14.0,7.0,0.0,0.0,0.0,0.0,13.0,0.0,1.0,0.0,0.0
+659,tt0070992,English,Comedy; Family; Music,Won 3 Golden Globes. Another 13 wins & 19 nominations.,16.0,19.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,3.0,0.0
+660,tt0076759,English,Action; Adventure; Fantasy,Won 6 Oscars. Another 48 wins & 28 nominations.,54.0,28.0,0.0,0.0,0.0,0.0,48.0,0.0,6.0,0.0,0.0
+661,tt0077687,English,Animation; Adventure; Family,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+662,tt0092272,English,Drama; Romance; Sport,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+663,tt0092272,English,Drama; Romance; Sport,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+664,tt0092455,English; Klingon; French,Action; Adventure; Mystery,Won 18 Primetime Emmys. Another 16 wins & 60 nominations.,34.0,60.0,0.0,0.0,0.0,0.0,16.0,18.0,0.0,0.0,0.0
+665,tt0119528,English,Comedy; Fantasy,Nominated for 1 Golden Globe. Another 4 wins & 5 nominations.,4.0,6.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0
+666,tt0359950,English; Spanish; Icelandic,Adventure; Comedy; Drama,5 wins & 16 nominations.,5.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+667,tt0362671,German,Drama; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+668,tt0364900,English,Comedy; Music; Talk-Show,6 wins & 5 nominations.,6.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+669,tt0403935,Hindi,Action; Comedy; Drama,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+670,tt0405469,English,Animation; Adventure; Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+671,tt0407362,English,Action; Adventure; Drama,Won 3 Primetime Emmys. Another 34 wins & 89 nominations.,37.0,89.0,0.0,0.0,0.0,0.0,34.0,3.0,0.0,0.0,0.0
+672,tt0418279,English; Spanish,Action; Adventure; Sci-Fi,Nominated for 3 Oscars. Another 19 wins & 40 nominations.,19.0,43.0,0.0,3.0,0.0,0.0,19.0,0.0,0.0,0.0,0.0
+673,tt0429493,English; Spanish; French; Swahili; German,Action; Adventure; Comedy,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+674,tt0469021,English,Comedy; Crime,1 win & 7 nominations.,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+675,tt0481499,English,Animation; Adventure; Comedy,Nominated for 1 Oscar. Another 5 wins & 41 nominations.,5.0,42.0,0.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+676,tt0765446,English,Animation; Adventure; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+677,tt0770828,English,Action; Adventure; Fantasy,7 wins & 42 nominations.,7.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+678,tt0787474,English,Animation; Adventure; Comedy,Nominated for 1 Oscar. Another 8 wins & 58 nominations.,8.0,59.0,0.0,1.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+679,tt0816692,English,Adventure; Drama; Sci-Fi,Won 1 Oscar. Another 39 wins & 134 nominations.,40.0,134.0,0.0,0.0,0.0,0.0,39.0,0.0,1.0,0.0,0.0
+680,tt0816711,English; Spanish; Hebrew; Arabic,Action; Adventure; Horror,3 wins & 23 nominations.,3.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+681,tt0829150,English; Turkish,Action; Drama; Fantasy,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+682,tt0831387,English; Japanese,Action; Adventure; Sci-Fi,5 wins & 28 nominations.,5.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+683,tt0848228,English; Russian,Action; Sci-Fi,Nominated for 1 Oscar. Another 34 wins & 75 nominations.,34.0,76.0,0.0,1.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0
+684,tt0848537,English,Animation; Adventure; Family,2 wins & 21 nominations.,2.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+685,tt0864835,English,Animation; Adventure; Comedy,2 wins & 16 nominations.,2.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+686,tt0903657,English,Biography; Drama; Music,Nominated for 2 Golden Globes. Another 20 wins & 52 nominations.,20.0,54.0,0.0,0.0,2.0,0.0,20.0,0.0,0.0,0.0,0.0
+687,tt0918561,Mandarin; Cantonese,Action; Crime; Horror,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+688,tt1015471,English,Drama; Mystery; Thriller,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+689,tt1141702,English,Drama,2 wins & 7 nominations.,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+690,tt1142985,English,Comedy; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+691,tt1205537,English; Russian,Action; Drama; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+692,tt1210819,English; North American Indian,Action; Adventure; Western,Nominated for 2 Oscars. Another 4 wins & 17 nominations.,4.0,19.0,0.0,2.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+693,tt1229340,English,Comedy,1 win & 23 nominations.,1.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+694,tt1234721,English; Persian; Ukrainian,Action; Crime; Sci-Fi,4 wins & 1 nomination.,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+695,tt1291150,English; Japanese,Action; Adventure; Comedy,1 win & 10 nominations.,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+696,tt1300854,English,Action; Adventure; Sci-Fi,Nominated for 1 Oscar. Another 17 wins & 53 nominations.,17.0,54.0,0.0,1.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0
+697,tt1343092,English,Drama; Romance,Won 2 Oscars. Another 44 wins & 74 nominations.,46.0,74.0,0.0,0.0,0.0,0.0,44.0,0.0,2.0,0.0,0.0
+698,tt1355630,English,Drama; Fantasy; Music,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+699,tt1408101,English; Klingon,Action; Adventure; Sci-Fi,Nominated for 1 Oscar. Another 6 wins & 46 nominations.,6.0,47.0,0.0,1.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+700,tt1428538,English,Action; Fantasy; Horror,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+701,tt1430132,English; Japanese,Action; Adventure; Sci-Fi,2 wins & 11 nominations.,2.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+702,tt1453405,English,Animation; Adventure; Comedy,Nominated for 1 BAFTA Film Award. Another 9 wins & 54 nominations.,9.0,55.0,0.0,0.0,0.0,1.0,9.0,0.0,0.0,0.0,0.0
+703,tt1454468,English; Greenlandic,Adventure; Drama; Sci-Fi,Won 7 Oscars. Another 215 wins & 169 nominations.,222.0,169.0,0.0,0.0,0.0,0.0,215.0,0.0,7.0,0.0,0.0
+704,tt1462411,English,Drama; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+705,tt1490017,English,Animation; Action; Adventure,Nominated for 1 Oscar. Another 70 wins & 59 nominations.,70.0,60.0,0.0,1.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0
+706,tt1528100,English,Action; Adventure; Drama,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+707,tt1571249,English,Comedy; Drama; Romance,4 wins & 10 nominations.,4.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+708,tt1587310,English,Action; Adventure; Family,Nominated for 1 Oscar. Another 9 wins & 40 nominations.,9.0,41.0,0.0,1.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0
+709,tt1588173,English,Comedy; Horror; Romance,1 win & 9 nominations.,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+710,tt1597725,Serbian,Comedy; Drama,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+711,tt1598754,English,Action; Crime; Drama,Nominated for 3 Primetime Emmys. Another 14 nominations.,0.0,17.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+712,tt1606378,English; Russian; Hindi,Action; Thriller,3 wins & 7 nominations.,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+713,tt1621039,English,Animation; Adventure; Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+714,tt1623205,English,Adventure; Family; Fantasy,5 wins & 31 nominations.,5.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+715,tt1631867,English,Action; Adventure; Sci-Fi,11 wins & 34 nominations.,11.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+716,tt1645131,English,Drama; Romance,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+717,tt1646971,English,Animation; Action; Adventure,Nominated for 1 Oscar. Another 13 wins & 59 nominations.,13.0,60.0,0.0,1.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0
+718,tt1650554,English,Action; Comedy; Crime,1 win & 7 nominations.,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+719,tt1656195,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+720,tt1663662,English; Japanese; Cantonese; Mandarin,Action; Adventure; Sci-Fi,Nominated for 1 BAFTA Film Award. Another 5 wins & 42 nominations.,5.0,43.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0
+721,tt1670345,English; French,Crime; Mystery; Thriller,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+722,tt1690953,English; Ukrainian,Animation; Adventure; Comedy,Nominated for 2 Oscars. Another 12 wins & 63 nominations.,12.0,65.0,0.0,2.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0
+723,tt1691307,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+724,tt1691917,English; Spanish,Animation; Adventure; Comedy,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+725,tt1696183,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+726,tt1698641,English,Comedy; Family,1 win & 7 nominations.,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+727,tt1709694,English,Drama,14 wins.,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+728,tt1715336,English,Drama; Mystery; Thriller,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+729,tt1729615,English,Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+730,tt1731141,English,Action; Sci-Fi,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+731,tt1748016,English,Drama,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,tt1753353,Danish,Drama; Fantasy; War,8 nominations.,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+733,tt1762399,English,Animation; Adventure; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+734,tt1790864,English,Action; Mystery; Sci-Fi,4 wins & 10 nominations.,4.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+735,tt1796652,Japanese,Drama,2 wins & 16 nominations.,2.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+736,tt1815862,English,Action; Adventure; Sci-Fi,3 wins & 7 nominations.,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+737,tt1821658,English; Dutch,Animation; Adventure; Comedy,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+738,tt1826590,English,Comedy; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+739,tt1828124,English,Documentary,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+740,tt1830713,English,Action; Comedy; Sci-Fi,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+741,tt1837494,English; Arabic,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+742,tt1838603,English; French,Comedy; Drama; Romance,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+743,tt1843866,English; French,Action; Adventure; Sci-Fi,Nominated for 1 Oscar. Another 5 wins & 49 nominations.,5.0,50.0,0.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+744,tt1847746,Spanish; German; Hebrew,Drama; History; Thriller,18 wins & 22 nominations.,18.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+745,tt1856010,English,Drama,Won 2 Golden Globes. Another 25 wins & 162 nominations.,27.0,162.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,2.0,0.0
+746,tt1860353,English,Animation; Adventure; Comedy,1 win & 11 nominations.,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+747,tt1865505,English; Irish; Scottish Gaelic,Animation; Adventure; Family,Nominated for 1 Oscar. Another 11 wins & 21 nominations.,11.0,22.0,0.0,1.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0
+748,tt1872181,English,Action; Adventure; Sci-Fi,3 wins & 29 nominations.,3.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+749,tt1877832,English; Vietnamese; French,Action; Adventure; Sci-Fi,Nominated for 1 Oscar. Another 15 wins & 42 nominations.,15.0,43.0,0.0,1.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0
+750,tt1905003,Croatian,Drama,9 wins & 4 nominations.,9.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+751,tt1905041,English; Russian; Spanish; Indonesian; Danish; Cantonese,Action; Crime; Thriller,8 wins & 21 nominations.,8.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+752,tt1911644,English,Crime; Thriller,1 win & 10 nominations.,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+753,tt1911658,English,Animation; Adventure; Comedy,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+754,tt1915626,English,Animation; Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+755,tt1921149,Portuguese; English,Adventure; Crime; Drama,Nominated for 1 BAFTA Film Award. Another 2 wins & 4 nominations.,2.0,5.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0
+756,tt1924435,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+757,tt1931435,English; Spanish; Latin,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+758,tt1939659,English,Drama; Horror,5 wins & 7 nominations.,5.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+759,tt1946381,English,Action; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+760,tt1951261,English,Comedy; Crime,2 wins & 6 nominations.,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+761,tt1951264,English,Action; Adventure; Mystery,Nominated for 1 Golden Globe. Another 21 wins & 59 nominations.,21.0,60.0,0.0,0.0,1.0,0.0,21.0,0.0,0.0,0.0,0.0
+762,tt1951265,English,Adventure; Sci-Fi; Thriller,Nominated for 1 Golden Globe. Another 16 wins & 26 nominations.,16.0,27.0,0.0,0.0,1.0,0.0,16.0,0.0,0.0,0.0,0.0
+763,tt1956620,English; Ukrainian,Comedy; Romance,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+764,tt1957886,English,Horror; Mystery; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+765,tt1964773,English,Drama,8 wins & 6 nominations.,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+766,tt1965118,English,Action; Crime; Drama,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+767,tt1972571,English; Turkish,Crime; Drama; Thriller,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+768,tt1974384,English,Documentary; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+769,tt1981115,English,Action; Adventure; Fantasy,2 wins & 18 nominations.,2.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+770,tt1985966,English,Animation; Adventure; Comedy,16 nominations.,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+771,tt2002718,English; Spanish,Action; Crime; Sci-Fi,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+772,tt2004420,English,Comedy,6 wins & 11 nominations.,6.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,tt2006753,English,Animation; Action; Adventure,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+774,tt2015381,English,Action; Adventure; Sci-Fi,Nominated for 2 Oscars. Another 48 wins & 92 nominations.,48.0,94.0,0.0,2.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0
+775,tt2016242,English; Romanian; Hungarian; French,Drama; Western,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+776,tt2017038,English,Action; Adventure; Drama,Nominated for 1 Oscar. Another 3 wins & 45 nominations.,3.0,46.0,0.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+777,tt2017109,English,Action; Crime; Drama,Won 1 Primetime Emmy. Another 1 win & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+778,tt2017486,English,Comedy; Drama,9 wins & 3 nominations.,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+779,tt2024469,English; German,Action; Mystery; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+780,tt2024544,English,Biography; Drama; History,Won 3 Oscars. Another 234 wins & 312 nominations.,237.0,312.0,0.0,0.0,0.0,0.0,234.0,0.0,3.0,0.0,0.0
+781,tt2076875,Spanish,Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+782,tt2078576,English,Crime; Drama; Mystery,7 nominations.,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+783,tt2081274,,Action; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+784,tt2084093,English,Drama,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+785,tt2095649,English; French,Biography; Drama; Romance,Nominated for 2 Primetime Emmys. Another 1 win & 2 nominations.,1.0,4.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+786,tt2096672,English; Cantonese,Comedy,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+787,tt2098781,,Horror; Thriller,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+788,tt2103188,English; Spanish; Mandarin; Russian; Korean; Polynesian,Action; Adventure; Comedy,10 wins & 23 nominations.,10.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+789,tt2106529,English,Comedy; Romance,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+790,tt2112923,English,Game-Show,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+791,tt2120144,English,Comedy,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+792,tt2136138,English,Animation; Family; Fantasy,Nominated for 2 Primetime Emmys. Another 4 wins & 15 nominations.,4.0,17.0,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+793,tt2140039,English; Urdu,Drama; Mystery; Thriller,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+794,tt2140373,English,Biography; Comedy; Drama,Nominated for 1 Oscar. Another 12 wins & 71 nominations.,12.0,72.0,0.0,1.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0
+795,tt2155405,Russian,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+796,tt2163315,English,Drama,Won 1 Golden Globe. Another 4 wins & 16 nominations.,5.0,16.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0
+797,tt2166834,English,Animation; Action; Crime,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+798,tt2167266,English; Aboriginal,Adventure; Biography; Drama,2 wins & 18 nominations.,2.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+799,tt2169322,Mandarin; English; Min Nan,Comedy,9 wins & 13 nominations.,9.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+800,tt2170228,Dutch; English; Arabic; Italian,Comedy; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+801,tt2172985,English; Spanish,Comedy; Crime,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+802,tt2180411,English,Adventure; Comedy; Drama,Nominated for 3 Oscars. Another 11 wins & 69 nominations.,11.0,72.0,0.0,3.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0
+803,tt2181889,English,Horror; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+804,tt2188671,English,Drama; Horror; Mystery,Nominated for 3 Primetime Emmys. Another 2 wins & 48 nominations.,2.0,51.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+805,tt2190838,English,Horror; Musical,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+806,tt2191082,English,Drama; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+807,tt2191400,Danish,Biography; Drama,4 wins & 12 nominations.,4.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+808,tt2193265,English,Action; Adventure; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+809,tt2194499,English,Comedy; Drama; Fantasy,3 wins & 9 nominations.,3.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+810,tt2194988,Swedish,Drama; Thriller,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+811,tt2199543,Portuguese; German; English,Drama; Romance,8 wins & 11 nominations.,8.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+812,tt2201251,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+813,tt2203939,English,Comedy; Romance,3 wins & 4 nominations.,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+814,tt2209764,English,Drama; Mystery; Romance,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+815,tt2224645,English,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+816,tt2229499,English,Comedy; Drama; Romance,1 win & 28 nominations.,1.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+817,tt2233170,English,Crime; Drama; Thriller,13 wins & 11 nominations.,13.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+818,tt2234261,English; French,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+819,tt2237342,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+820,tt2243537,English; Spanish,Comedy; Fantasy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+821,tt2244901,English,Comedy; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+822,tt2245084,English,Animation; Action; Adventure,Won 1 Oscar. Another 13 wins & 53 nominations.,14.0,53.0,0.0,0.0,0.0,0.0,13.0,0.0,1.0,0.0,0.0
+823,tt2245119,English,Horror,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+824,tt2249278,Spanish; French,Comedy; Drama; Romance,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+825,tt2249364,English,Crime; Drama; Mystery,19 wins & 21 nominations.,19.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+826,tt2252668,Portuguese,Short; Drama; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+827,tt2258904,English,Drama,1 win & 8 nominations.,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+828,tt2260850,Spanish,Drama; Romance,3 wins & 4 nominations.,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+829,tt2261325,French,Animation; Short; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+830,tt2262227,English; Spanish,Animation; Adventure; Comedy,Nominated for 1 Golden Globe. Another 3 wins & 27 nominations.,3.0,28.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0
+831,tt2263944,Japanese,Animation; Action; Comedy,7 wins & 4 nominations.,7.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+832,tt2265398,English,Comedy; Drama; Romance,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+833,tt2267368,English,Drama,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+834,tt2267998,English,Crime; Drama; Mystery,Nominated for 1 Oscar. Another 64 wins & 169 nominations.,64.0,170.0,0.0,1.0,0.0,0.0,64.0,0.0,0.0,0.0,0.0
+835,tt2268458,English,Drama; Sci-Fi; Thriller,3 wins & 7 nominations.,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+836,tt2274208,English,Short; Drama; Mystery,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+837,tt2275451,Spanish,Fantasy,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+838,tt2278388,English; French,Adventure; Comedy; Drama,Won 4 Oscars. Another 122 wins & 213 nominations.,126.0,213.0,0.0,0.0,0.0,0.0,122.0,0.0,4.0,0.0,0.0
+839,tt2281328,English,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+840,tt2281587,English; German,Adventure; Comedy; Crime,3 wins & 11 nominations.,3.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+841,tt2287170,English; Japanese,Crime; Drama; Mystery,3 wins & 4 nominations.,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+842,tt2288064,English,Drama; Fantasy; Horror,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+843,tt2290567,Mandarin; Cantonese,Action; Crime,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+844,tt2292959,English,Drama; Thriller,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+845,tt2294629,English; Icelandic,Animation; Adventure; Comedy,Won 2 Oscars. Another 72 wins & 57 nominations.,74.0,57.0,0.0,0.0,0.0,0.0,72.0,0.0,2.0,0.0,0.0
+846,tt2295672,English,Comedy,3 wins & 5 nominations.,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+847,tt2296682,English,Drama; Horror; Romance,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+848,tt2298384,French; English,Comedy; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+849,tt2310332,English,Adventure; Fantasy,Nominated for 1 Oscar. Another 6 wins & 45 nominations.,6.0,46.0,0.0,1.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+850,tt2315896,English,Drama; Sci-Fi,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+851,tt2316801,French; English,Fantasy; Romance,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+852,tt2317102,Dutch,Drama,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+853,tt2324384,Hungarian; German,Drama; War,5 wins & 2 nominations.,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+854,tt2329077,English,Animation; Action; Sci-Fi,11 nominations.,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+855,tt2333784,English; Spanish,Action; Adventure; Thriller,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+856,tt2337458,Min Nan,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+857,tt2339741,English,Drama; Horror; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+858,tt2341644,Spanish,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+859,tt2342652,English,Comedy,Nominated for 1 Primetime Emmy. Another 1 win & 5 nominations.,1.0,6.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+860,tt2343707,Finnish,Adventure; Comedy; Family,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+861,tt2345481,English,Drama; Romance,7 wins & 18 nominations.,7.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+862,tt2345613,English,Fantasy; Horror,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+863,tt2357291,English; Portuguese,Animation; Adventure; Comedy,1 win & 19 nominations.,1.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+864,tt2357377,Korean; English; German,Action; Drama; Thriller,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+865,tt2357461,Italian,Drama,23 wins & 27 nominations.,23.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+866,tt2357770,English,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+867,tt2360390,Spanish; German; Swiss German; French; Italian,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+868,tt2364582,English,Action; Drama; Sci-Fi,Nominated for 2 Primetime Emmys. Another 2 wins & 21 nominations.,2.0,23.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+869,tt2365946,English,Drama; Fantasy; Horror,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+870,tt2369135,English,Action; Crime; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+871,tt2369914,English,Short; Adventure; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+872,tt2372162,English,Comedy; Crime; Drama,Nominated for 6 Golden Globes. Another 43 wins & 92 nominations.,43.0,98.0,0.0,0.0,6.0,0.0,43.0,0.0,0.0,0.0,0.0
+873,tt2374744,English,Drama; Family; Romance,3 wins & 7 nominations.,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+874,tt2375278,English,Comedy,4 wins & 3 nominations.,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+875,tt2375473,French,Drama,2 wins & 7 nominations.,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+876,tt2375692,English,Adventure; Drama,Won 3 Primetime Emmys. Another 2 wins & 17 nominations.,5.0,17.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,0.0
+877,tt2377322,English; Spanish; Latin; Italian,Horror; Mystery; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+878,tt2377938,Hindi,Action; Crime; Drama,11 nominations.,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+879,tt2379082,English,Drama; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+880,tt2380301,English,Drama; Thriller,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+881,tt2381048,English,Drama,4 wins & 5 nominations.,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+882,tt2382009,English,Drama,14 wins & 26 nominations.,14.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+883,tt2382396,English,Drama,4 wins & 9 nominations.,4.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+884,tt2385006,English,Documentary,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+885,tt2385041,English,Comedy; Fantasy; Horror,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+886,tt2386257,Maori; English,Drama,2 wins & 9 nominations.,2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+887,tt2386868,English,Documentary; Biography; Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+888,tt2386922,English,Documentary; Short; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+889,tt2388152,German; French,Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+890,tt2388819,Turkish,Comedy; Drama; Music,4 wins & 8 nominations.,4.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+891,tt2390334,English,Drama,3 wins & 3 nominations.,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+892,tt2390480,English,Short; Drama; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+893,tt2391622,English,Action; Thriller,5 wins & 9 nominations.,5.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+894,tt2392179,English; Japanese; Spanish,Animation; Action; Comedy,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+895,tt2392433,English,Short; Action; Comedy,4 wins & 9 nominations.,4.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+896,tt2393845,English,Action; Comedy; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+897,tt2399794,English,Drama; Family; Romance,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+898,tt2402091,Swedish,Drama,11 wins & 6 nominations.,11.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+899,tt2404311,English; French,Comedy; Crime; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+900,tt2404417,English,Short; Drama,5 wins & 2 nominations.,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+901,tt2404461,French; Persian,Drama; Mystery,Nominated for 1 Golden Globe. Another 12 wins & 35 nominations.,12.0,36.0,0.0,0.0,1.0,0.0,12.0,0.0,0.0,0.0,0.0
+902,tt2406376,English; Spanish,Crime; Drama; Mystery,7 wins & 3 nominations.,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+903,tt2406992,Italian,Crime,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+904,tt2408482,English,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+905,tt2409300,Japanese; Indonesian; English; French,Crime; Drama; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+906,tt2413338,English,Sci-Fi; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+907,tt2418372,French,Drama,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+908,tt2419986,Spanish,Comedy; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+909,tt2420092,,Animation; Short; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+910,tt2427502,Swedish; Spanish; English; Croatian; Arabic,Crime; Drama; Thriller,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+911,tt2431410,English,Drama; Music; Musical,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+912,tt2434988,Latvian,Drama,7 wins & 4 nominations.,7.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+913,tt2449606,English; Spanish,Adventure; Crime; Western,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+914,tt2450186,English; Indonesian,Horror; Thriller,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+915,tt2452470,English,Crime; Mystery; Thriller,3 wins & 4 nominations.,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+916,tt2455546,English,Animation; Action; Adventure,8 nominations.,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+917,tt2458910,English,Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+918,tt2461132,Hindi,Action; Comedy; Crime,10 wins & 38 nominations.,10.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+919,tt2467020,English,Documentary; History; Mystery,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+920,tt2467372,English,Comedy; Crime,Won 2 Golden Globes. Another 7 wins & 54 nominations.,9.0,54.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,2.0,0.0
+921,tt2473682,English; Spanish,Horror; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+922,tt2476176,English,Short; Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+923,tt2492366,English,Animation; Action; Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+924,tt2492738,Turkish; Kurdish,Drama,7 wins & 2 nominations.,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+925,tt2499534,English,Animation,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+926,tt2505938,English,Documentary; Biography; History,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+927,tt2511670,French,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+928,tt2514936,English,Short; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+929,tt2515030,English; Spanish,Crime; Drama; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+930,tt2524568,French; Arabic; English,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+931,tt2525290,English,Comedy; Crime,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+932,tt2525840,English,Adventure,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+933,tt2531282,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+934,tt2536846,English,Drama,4 wins & 2 nominations.,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+935,tt2543312,English,Drama,Nominated for 1 Primetime Emmy. Another 1 win & 6 nominations.,1.0,7.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+936,tt2544182,Greek,Crime; Drama,4 wins & 7 nominations.,4.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+937,tt2545910,English,Documentary; Western,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+938,tt2547850,English,Biography; Crime; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+939,tt2551046,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+940,tt2551624,Tamil,Documentary; Biography; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+941,tt2551654,Norwegian,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+942,tt2553444,English,Comedy; Horror,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+943,tt2556308,Hindi,Action; Drama; Thriller,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+944,tt2558556,Serbian; English,Documentary,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+945,tt2564156,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+946,tt2571774,English,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+947,tt2573226,Italian,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+948,tt2575988,English,Comedy,Nominated for 2 Golden Globes. Another 10 wins & 46 nominations.,10.0,48.0,0.0,0.0,2.0,0.0,10.0,0.0,0.0,0.0,0.0
+949,tt2578560,English,Comedy,8 nominations.,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+950,tt2582426,English,Horror; Thriller,13 wins & 8 nominations.,13.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+951,tt2585808,Spanish,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+952,tt2594078,Spanish,Comedy; Horror; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+953,tt2595390,Italian,History,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+954,tt2597242,English,Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+955,tt2602734,English,Short; Horror; Thriller,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+956,tt2606806,German,Short; Comedy; Drama,4 wins & 5 nominations.,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+957,tt2608368,English,Comedy; Reality-TV,2 wins & 15 nominations.,2.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+958,tt2609758,English,Comedy; Drama,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+959,tt2613776,English,Comedy; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+960,tt2615726,German,Short; Biography; Fantasy,5 wins & 2 nominations.,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+961,tt2622530,English,Comedy; Drama,10 wins & 2 nominations.,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+962,tt2624636,English,Documentary; News; Sport,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+963,tt2632556,Norwegian,Drama; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+964,tt2634238,English,,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+965,tt2636124,Japanese,Animation; Action; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+966,tt2639254,English,Drama; Romance,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+967,tt2645724,German,Drama,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+968,tt2646374,English,Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+969,tt2647544,English,Adventure; Drama; Fantasy,Nominated for 1 Primetime Emmy. Another 30 nominations.,0.0,31.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+970,tt2648204,English,Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+971,tt2649588,English,Drama; Mystery; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+972,tt2650642,Polish; English,Drama; Thriller,4 wins & 6 nominations.,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+973,tt2653264,Japanese,Drama; History,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+974,tt2654580,English,Action; Crime; Drama,Nominated for 1 Primetime Emmy. Another 2 wins & 4 nominations.,2.0,5.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+975,tt2657242,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+976,tt2658126,Hindi,Action,7 nominations.,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+977,tt2659954,English,Drama,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+978,tt2662822,English,Short; Drama; Mystery,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+979,tt2666270,English,Comedy; Drama; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+980,tt2668134,Japanese,Animation; Adventure; Sci-Fi,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+981,tt2669336,English,Sci-Fi; Thriller,18 wins & 5 nominations.,18.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+982,tt2670454,Thai,Drama,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+983,tt2672730,English,Short; Fantasy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+984,tt2674924,English,Short; Action; Drama,6 wins & 13 nominations.,6.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+985,tt2691102,Dutch,Drama,1 win & 8 nominations.,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+986,tt2704656,English,Short; Comedy; Drama,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+987,tt2704752,English,Documentary; Adventure; History,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+988,tt2704988,Hebrew,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+989,tt2705602,English,Adventure; Drama; Fantasy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+990,tt2707792,English,Biography; Crime; Drama,Nominated for 4 Primetime Emmys. Another 12 nominations.,0.0,16.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+991,tt2708258,English,Short; Comedy; Musical,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+992,tt2711738,English; French,Crime; Drama; Mystery,4 wins & 2 nominations.,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+993,tt2712612,English,Comedy; History,Won 1 Primetime Emmy. Another 1 win & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+994,tt2714118,Portuguese,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+995,tt2717558,Filipino; Tagalog; English,Action; Crime; Drama,20 wins & 32 nominations.,20.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+996,tt2717740,German,Comedy; Talk-Show,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+997,tt2724064,English,Horror; Sci-Fi,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+998,tt2734004,Portuguese,Drama; Family; Musical,9 nominations.,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+999,tt2737050,French; Arabic; English,Drama,Nominated for 1 Oscar. Another 38 wins & 74 nominations.,38.0,75.0,0.0,1.0,0.0,0.0,38.0,0.0,0.0,0.0,0.0
+1000,tt2737690,English,Drama; Mystery; Romance,3 wins & 3 nominations.,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1001,tt2739708,French; English; Portuguese; Maya; Spanish,Action; Adventure; History,1 win & 11 nominations.,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1002,tt2742174,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1003,tt2747548,English,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1004,tt2749298,English; German,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1005,tt2751074,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1006,tt2757456,Portuguese,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1007,tt2760020,Persian,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1008,tt2760492,English,Documentary; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1009,tt2762738,English,Horror,19 wins & 10 nominations.,19.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1010,tt2764784,German; English,Drama,15 wins & 27 nominations.,15.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1011,tt2767040,English,Animation; Short; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1012,tt2767700,German,Short,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1013,tt2769470,English,Comedy,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1014,tt2771372,English,Crime; Drama; Mystery,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1015,tt2773126,French,Short; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1016,tt2776888,English,Reality-TV,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1017,tt2787824,French,Comedy; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1018,tt2788710,English; Korean,Comedy,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1019,tt2792284,Hindi,Action; Drama; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1020,tt2792326,Irish,Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1021,tt2793490,English,Drama; Fantasy; Horror,6 wins & 15 nominations.,6.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1022,tt2797344,English; German; Spanish,Short; Action; Drama,3 wins & 5 nominations.,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1023,tt2798590,English,Documentary; Biography; Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1024,tt2801538,Spanish,Drama; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1025,tt2802144,English; Arabic; Swedish,Action; Adventure; Comedy,6 wins & 19 nominations.,6.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1026,tt2805096,English,Action; Crime; Drama,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1027,tt2814370,Portuguese,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1028,tt2818720,English,Animation; Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1029,tt2820078,English,Comedy,5 wins & 4 nominations.,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1030,tt2820336,Portuguese; French,Comedy; Drama,5 wins & 6 nominations.,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1031,tt2820784,English,Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1032,tt2821088,French; English,Drama; Romance,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1033,tt2821314,English,Documentary; History; News,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1034,tt2821430,English,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1035,tt2827412,English,Drama,4 wins & 6 nominations.,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1036,tt2845786,English,Documentary,Won 5 Primetime Emmys. Another 7 wins & 23 nominations.,12.0,23.0,0.0,0.0,0.0,0.0,7.0,5.0,0.0,0.0,0.0
+1037,tt2847426,English,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1038,tt2849004,,Animation; Short; Action,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1039,tt2853116,English,Action; War,2 wins & 6 nominations.,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1040,tt2854140,German,Short; Drama; Horror,6 wins & 12 nominations.,6.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1041,tt2861322,German,Short; Action; Crime,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1042,tt2865618,Norwegian,Drama; Family; Sport,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1043,tt2871832,English,Drama; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1044,tt2876114,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1045,tt2884130,English,Documentary,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1046,tt2889112,English,Drama; Family; Romance,12 wins & 10 nominations.,12.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1047,tt2893256,Spanish,Comedy; Drama,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1048,tt2894546,English,Crime,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1049,tt2894644,Korean,Short; Action; Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1050,tt2894668,,Short; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1051,tt2894710,French,Short; Drama; History,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1052,tt2896066,Greek,Short; Drama,5 wins & 15 nominations.,5.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1053,tt2904568,English,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1054,tt2906772,Portuguese,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1055,tt2908856,English,Comedy; Drama; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1056,tt2909286,Bulgarian; Bulgarian,Documentary; Adventure; Comedy,4 wins & 7 nominations.,4.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1057,tt2911448,Kannada,Reality-TV,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1058,tt2917336,English,Horror,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1059,tt2924484,English,Documentary; Short; Biography,Won 1 Oscar. Another 2 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0
+1060,tt2930446,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1061,tt2930604,English,Animation; Action; Adventure,4 wins & 14 nominations.,4.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1062,tt2931992,English,Short; Crime; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1063,tt2933326,Portuguese,Comedy; Drama; Romance,20 wins & 19 nominations.,20.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1064,tt2934660,,Animation; Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1065,tt2935986,English,Comedy; Drama; Romance,6 wins & 2 nominations.,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1066,tt2936906,French; Spanish; Portuguese,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1067,tt2937214,German,Short; Drama; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1068,tt2938310,Spanish,Short; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1069,tt2945504,Danish,Crime; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1070,tt2945936,English,Short; Action; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1071,tt2946764,Portuguese,Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1072,tt2950996,English,Action; Adventure; Horror,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1073,tt2951478,English,Action; Sci-Fi; Thriller,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1074,tt2952566,English,Comedy,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1075,tt2952602,Cantonese; Mandarin,Action; Drama,3 wins & 12 nominations.,3.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1076,tt2956940,Hebrew,Comedy; Crime; Drama,8 nominations.,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1077,tt2960144,Danish,Comedy; Drama,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1078,tt2960796,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1079,tt2960890,Japanese,Action; Adventure,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1080,tt2963076,English,Action; Adventure; Sci-Fi,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1081,tt2963232,English,Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1082,tt2963340,English,Drama,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1083,tt2963344,English,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1084,tt2967166,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1085,tt2967368,English,Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1086,tt2974350,English; Japanese,Action; Fantasy; Sci-Fi,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1087,tt2975578,English,Action; Horror; Sci-Fi,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1088,tt2978462,English,Drama; Family,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1089,tt2980706,English,Animation; Adventure; Comedy,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1090,tt2990558,English,Documentary,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1091,tt2992646,,Animation; Short; War,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1092,tt2994904,Croatian,Comedy; Drama,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1093,tt3006576,Kannada,Comedy; Romance,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1094,tt3009336,English,Comedy,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1095,tt3009444,Russian,Drama,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1096,tt3010656,Czech; English,Comedy; Music,1 win & 12 nominations.,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1097,tt3012160,English,Comedy; Drama,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1098,tt3012492,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1099,tt3012532,English,Family; Sci-Fi,3 wins & 17 nominations.,3.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1100,tt3015094,French,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1101,tt3017412,Hindi,Comedy; Romance,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1102,tt3019450,Swedish,Short; Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1103,tt3020682,English,Animation,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1104,tt3021360,English,Comedy; Crime; Drama,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1105,tt3031966,Hungarian,Comedy; Drama; Music,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1106,tt3037520,English,Comedy; Game-Show,Won 2 Primetime Emmys. Another 3 wins & 5 nominations.,5.0,5.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0
+1107,tt3039076,English,Mystery; Sci-Fi; Thriller,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1108,tt3039270,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1109,tt3041356,English,Biography,Won 1 Primetime Emmy. Another 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+1110,tt3042526,Portuguese,Comedy; Drama; Romance,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1111,tt3042722,Bulgarian,Short; Drama,6 wins & 4 nominations.,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1112,tt3044834,English,Documentary; Crime,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1113,tt3045044,English,Sport,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1114,tt3053574,English,Short; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1115,tt3057572,English,Drama; Music,8 wins & 2 nominations.,8.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1116,tt3061050,English,Animation; Comedy; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1117,tt3063316,English,Animation; Action; Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1118,tt3064658,Hebrew,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1119,tt3067462,German,Talk-Show,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1120,tt3075206,Italian,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1121,tt3078602,English,Action; Drama; War,3 wins & 8 nominations.,3.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1122,tt3088960,English,Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1123,tt3089904,Flemish; Dutch,Action; Drama; Family,4 wins & 11 nominations.,4.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1124,tt3091254,Mandarin,Drama; Horror; Thriller,5 wins & 6 nominations.,5.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1125,tt3091810,Urdu,Animation; Action; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1126,tt3092606,English,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1127,tt3101352,English,History,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1128,tt3103598,Danish,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1129,tt3104078,English,Comedy; Horror,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1130,tt3104558,German,Documentary; Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1131,tt3106120,English,Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1132,tt3108260,English,Comedy; Drama; Musical,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1133,tt3110942,German,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1134,tt3111136,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1135,tt3115864,Norwegian,Drama; Romance,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1136,tt3118244,English,Short; Comedy; Drama,8 wins.,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1137,tt3125472,Mandarin,Drama,15 wins & 30 nominations.,15.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1138,tt3130852,English,Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1139,tt3132514,Korean,Short; Comedy; Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1140,tt3132738,English,Biography; Drama,Won 1 Primetime Emmy. Another 1 win & 21 nominations.,2.0,21.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+1141,tt3133386,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1142,tt3134422,English,Comedy; Drama; Family,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1143,tt3139072,English,Animation; Action; Adventure,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1144,tt3144678,Chinese,Comedy; Drama; Family,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1145,tt3146580,English; Swiss German,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1146,tt3147542,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1147,tt3150056,English,Comedy; Horror; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1148,tt3169706,English; Welsh,Biography; Comedy; Drama,Nominated for 1 Golden Globe. Another 8 wins & 16 nominations.,8.0,17.0,0.0,0.0,1.0,0.0,8.0,0.0,0.0,0.0,0.0
+1149,tt3170348,English,Documentary; Short; Family,Won 1 Primetime Emmy. Another 2 wins.,3.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0
+1150,tt3175038,Hindi,Action; Crime; Drama,7 wins & 8 nominations.,7.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1151,tt3175846,English,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1152,tt3176116,English,Short; Drama; Romance,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1153,tt3176134,Turkish,Crime; Drama; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1154,tt3176254,English,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1155,tt3178442,English,Comedy; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1156,tt3181672,English,Reality-TV,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1157,tt3181728,French; English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1158,tt3184580,English,Drama; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1159,tt3190372,Finnish; English,Reality-TV,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1160,tt3194678,English,Documentary; History; Sport,5 wins.,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1161,tt3195768,English,Short; Drama; Mystery,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1162,tt3196174,Serbian; English; Icelandic,Action; Crime; Drama,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1163,tt3202500,German; Hungarian,Drama; History; Thriller,3 wins & 4 nominations.,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1164,tt3204392,Japanese,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1165,tt3207304,English,Fantasy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1166,tt3209710,Hebrew,Comedy; Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1167,tt3212404,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1168,tt3214648,Spanish,Comedy; Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1169,tt3215892,Korean,Drama; Romance,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1170,tt3216682,English,Comedy; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1171,tt3240898,English,News; Sport,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1172,tt3242480,Hebrew,Drama; Thriller,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1173,tt3242924,English,Short; Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1174,tt3243306,English,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1175,tt3244992,English,Comedy; Crime; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1176,tt3250010,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1177,tt3254404,English,Animation; Short; Comedy,Nominated for 1 Primetime Emmy. Another 1 nomination.,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1178,tt3264240,English,Comedy; Horror,3 wins & 4 nominations.,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1179,tt3265626,Spanish,Short; Comedy; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1180,tt3268042,English,Adult; Comedy; Musical,6 wins & 3 nominations.,6.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1181,tt3268458,English,Documentary; Biography; Crime,4 wins & 2 nominations.,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1182,tt3271372,English,Comedy,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1183,tt3275400,English,Comedy,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1184,tt3278420,English,Animation; Short; Comedy,5 wins & 3 nominations.,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1185,tt3279124,English,Documentary; History; War,Nominated for 1 Oscar. Another 4 wins & 9 nominations.,4.0,10.0,0.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+1186,tt3279462,English,Sport,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1187,tt3279494,English,Comedy; Game-Show,Won 2 Primetime Emmys. Another 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+1188,tt3281074,Mandarin; English,Documentary; Drama,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1189,tt3281646,English,Documentary,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1190,tt3289126,French,Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1191,tt3297554,English,Drama,9 wins & 1 nomination.,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1192,tt3299698,Italian,Short; Action; Sci-Fi,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1193,tt3300126,English,Comedy,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1194,tt3300988,English,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1195,tt3304616,English,Documentary,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1196,tt3304860,English,Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1197,tt3311582,,,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1198,tt3312930,,Animation; Short; Action,4 wins & 3 nominations.,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1199,tt3313396,Finnish,Documentary; Short,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1200,tt3318220,Dutch; English,Drama; Romance,9 wins & 7 nominations.,9.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1201,tt3322274,English,Documentary,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1202,tt3326366,English,Documentary; Biography; Crime,3 wins & 3 nominations.,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1203,tt3330908,English,Reality-TV,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1204,tt3334794,German,Comedy; Drama,8 wins & 3 nominations.,8.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1205,tt3336690,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1206,tt3340712,English,Crime; Drama,6 wins & 25 nominations.,6.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1207,tt3342592,English,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1208,tt3345346,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1209,tt3345466,Thai,Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1210,tt3350376,English,Horror; Thriller,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1211,tt3353690,English,Drama,2 wins & 16 nominations.,2.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1212,tt3355944,Spanish,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1213,tt3358020,Japanese,Animation; Horror; Sci-Fi,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1214,tt3363888,Spanish,Horror,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1215,tt3368706,English,Short; Biography; Crime,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1216,tt3370324,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1217,tt3374966,Italian,Comedy; Crime,15 wins & 20 nominations.,15.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1218,tt3376720,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1219,tt3385854,Malayalam,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1220,tt3386144,Dutch,Family,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1221,tt3391114,English,Short; Music,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1222,tt3393070,English,Action; Sci-Fi,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1223,tt3395184,English; Italian,Horror; Romance; Sci-Fi,4 wins & 10 nominations.,4.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1224,tt3398228,English,Animation; Comedy; Drama,2 wins & 6 nominations.,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1225,tt3398876,English,Documentary; Short; Biography,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1226,tt3401190,English,Documentary; Adventure; Comedy,4 wins & 4 nominations.,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1227,tt3402834,Persian,Drama,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1228,tt3415374,Arabic,Adventure,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1229,tt3426110,English,Comedy; Family; Music,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1230,tt3433358,French,Comedy; Drama; Thriller,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1231,tt3438434,,Short; Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1232,tt3438660,English,Short; Music,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1233,tt3444938,English,Comedy; Music; Talk-Show,Won 2 Primetime Emmys. Another 7 wins & 23 nominations.,9.0,23.0,0.0,0.0,0.0,0.0,7.0,2.0,0.0,0.0,0.0
+1234,tt3449314,English,Short; Horror,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1235,tt3450290,English,Documentary; Biography; Comedy,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1236,tt3452948,Swedish,Drama; Romance,7 wins & 9 nominations.,7.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1237,tt3456160,Portuguese,Action; Crime; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1238,tt3457798,English,Drama; Music,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1239,tt3458196,English,Documentary,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1240,tt3458776,Dzongkha,Documentary; Drama; Family,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1241,tt3464018,English,Documentary; History,6 wins.,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1242,tt3464886,Russian,Documentary; Short; Adventure,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1243,tt3468914,Portuguese,Drama,9 wins & 5 nominations.,9.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1244,tt3469682,English,Documentary; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1245,tt3469918,German,Drama,6 wins & 7 nominations.,6.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1246,tt3470148,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1247,tt3474788,English; Irish; Polish,Action; Drama; Thriller,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1248,tt3475002,English; Croatian,Documentary; Drama; Romance,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1249,tt3477042,Norwegian,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1250,tt3477516,German,Short; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1251,tt3478564,English,Documentary; Adventure; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1252,tt3481544,English,Animation; Comedy; Family,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1253,tt3487356,English,Comedy,Nominated for 4 Primetime Emmys. Another 18 wins & 40 nominations.,18.0,44.0,4.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0
+1254,tt3497284,Min Nan,Short; Fantasy,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1255,tt3498494,Hindi,Documentary; Western,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1256,tt3500536,Danish,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1257,tt3501900,Croatian,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1258,tt3502172,English,Comedy; Drama; Music,Won 2 Golden Globes. Another 3 wins & 3 nominations.,5.0,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,0.0
+1259,tt3502248,English,Crime; Drama,Nominated for 1 Primetime Emmy. Another 4 nominations.,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1260,tt3506970,Malayalam; Malayalam,Family; Sport,5 wins.,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1261,tt3508850,,Documentary,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1262,tt3511812,English,Documentary; Biography; Sport,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1263,tt3519272,French,Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1264,tt3522566,Persian,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1265,tt3522584,Mandarin; Min Nan,Documentary,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1266,tt3523654,English,Animation,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1267,tt3525428,German,Short; Drama; History,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1268,tt3528756,Spanish,Sci-Fi; Thriller,8 wins.,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1269,tt3534636,Russian,Drama; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1270,tt3540354,Spanish,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1271,tt3543084,Russian; French; English; German,History,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1272,tt3544556,Japanese,Animation; Action; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1273,tt3548092,Khmer,Documentary; Short,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1274,tt3556544,French,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1275,tt3558832,,Animation; Short; Fantasy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1276,tt3560662,Portuguese,Drama; History,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1277,tt3560768,German,Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1278,tt3561828,English,,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1279,tt3562082,English,Short; Comedy; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1280,tt3562626,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1281,tt3566726,English,Comedy,Won 1 Golden Globe. Another 12 wins & 39 nominations.,13.0,39.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,1.0,0.0
+1282,tt3566812,English,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1283,tt3567224,English,Documentary; Short,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1284,tt3568088,English,Biography,3 wins & 5 nominations.,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1285,tt3572756,Hungarian,Drama; Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1286,tt3574904,English,Drama,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1287,tt3575500,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1288,tt3582084,Indonesian,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1289,tt3583000,French,Short; Comedy,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1290,tt3588278,English,Short; Drama; Horror,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1291,tt3592718,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1292,tt3596274,Kurdish; Turkish,Documentary; Drama; Family,6 wins & 2 nominations.,6.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1293,tt3606874,English,Short; Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1294,tt3610884,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1295,tt3613470,,Documentary; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1296,tt3620544,Portuguese,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1297,tt3621796,Japanese,Animation; Action; Fantasy,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1298,tt3640766,English,Short; Comedy; Family,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1299,tt3644570,Spanish,Animation; Adventure,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1300,tt3646188,English,Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1301,tt3648438,English,Reality-TV,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1302,tt3650650,German,Short; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1303,tt3652808,Persian,Short; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1304,tt3657420,English,Documentary; Biography,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1305,tt3662228,English,Short; Action; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1306,tt3669058,English,Documentary; Short; Biography,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1307,tt3671042,English,Drama,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1308,tt3672398,Catalan,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1309,tt3673430,English,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1310,tt3674184,,Animation; Drama; Fantasy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1311,tt3674654,English,Animation; Short; Comedy,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1312,tt3691930,English; Maori,Drama,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1313,tt3693996,Welsh,Comedy; Drama; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1314,tt3696720,English,Drama; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1315,tt3696774,English,Animation; Short; Action,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1316,tt3696908,,Animation; Short; Fantasy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1317,tt3697996,English,Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1318,tt3710814,Portuguese,Drama,8 nominations.,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1319,tt3713166,English,Horror,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1320,tt3717068,Marathi; Gujarati; English; Hindi,Drama,15 wins & 6 nominations.,15.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1321,tt3721942,,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1322,tt3728222,Portuguese,Short; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1323,tt3733650,English,Short; Comedy; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1324,tt3734106,English,Animation; Short; Biography,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1325,tt3742982,Japanese,Animation; Action; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1326,tt3753000,Bulgarian,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1327,tt3758364,English,Animation; Short; Comedy,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1328,tt3759416,French,Animation; Adventure; Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1329,tt3762742,English,Documentary; Short; Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1330,tt3763828,English,Short; Horror; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1331,tt3794066,English,Sport,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1332,tt3796388,English,Documentary; Biography; History,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1333,tt3797128,English,Short; Drama,4 wins & 7 nominations.,4.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1334,tt3801438,English,Adventure; Comedy,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1335,tt3801878,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1336,tt3807022,English,Animation; Comedy; Family,5 wins & 11 nominations.,5.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1337,tt3819504,Catalan,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1338,tt3824086,English,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1339,tt3825328,Spanish,Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1340,tt3828904,English,Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1341,tt3830420,English,Drama; Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1342,tt3831868,German,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1343,tt3832432,German,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1344,tt3839252,German,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1345,tt3843108,English,Comedy,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1346,tt3845742,Filipino; Tagalog,Drama,1 win & 14 nominations.,1.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1347,tt3858500,Romanian; English,Drama,4 wins & 1 nomination.,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1348,tt3885120,Portuguese,Drama,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1349,tt3885408,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1350,tt3887800,Filipino; Tagalog,Drama,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1351,tt3900206,Basque,Drama,8 wins & 15 nominations.,8.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1352,tt3904078,English,Comedy; Family,4 wins & 1 nomination.,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1353,tt3904994,Filipino; Tagalog,Drama,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1354,tt3914520,Korean,Crime,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1355,tt3918650,English,Documentary; Comedy,Nominated for 1 Primetime Emmy. Another 1 nomination.,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1356,tt3919200,Welsh,Mystery,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1357,tt3920548,English,,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1358,tt3921454,English; French,Documentary; News,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1359,tt3923034,Filipino,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1360,tt3951130,English,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1361,tt3954878,English,Animation; Short; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1362,tt3955672,Hebrew,Drama; Family; Romance,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1363,tt3957718,English,Animation; Short; Adventure,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1364,tt3957986,Korean,Thriller,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1365,tt3962354,English,Game-Show,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1366,tt3971136,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1367,tt3974720,English,Short; Drama; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1368,tt3997238,English; French,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1369,tt3998324,English,Short; Music,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1370,tt4004118,Portuguese,Short; Drama; Fantasy,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1371,tt4043864,English,Adult; Romance,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1372,tt4044030,English,Short; Drama; Fantasy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1373,tt4044840,Portuguese,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1374,tt4044970,Mandarin,Drama,4 wins & 5 nominations.,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1375,tt4047118,English,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1376,tt4047752,Danish; Danish,Horror; Mystery; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1377,tt4048256,English,Animation,3 wins & 7 nominations.,3.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1378,tt4052994,Mandarin,Comedy,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1379,tt4065316,English; French; Hawaiian,Drama; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1380,tt4071572,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1381,tt4073732,French,Documentary; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1382,tt4080028,Persian,Drama,4 wins & 2 nominations.,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1383,tt4086030,English,Documentary; Family,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1384,tt4093636,Russian; English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1385,tt4094242,French,History,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1386,tt4108554,Hebrew,Short; Drama; Family,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1387,tt4109934,English,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1388,tt4117294,Danish,Comedy; Drama,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1389,tt4120018,Korean,Documentary,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1390,tt4127474,Chinese,Drama,6 wins & 5 nominations.,6.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1391,tt4132736,Japanese,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1392,tt4134838,English,Short; Comedy; Fantasy,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1393,tt4147830,English,Animation; Comedy; Family,Nominated for 1 Primetime Emmy. Another 1 win & 6 nominations.,1.0,7.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1394,tt4151090,French; Russian; English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1395,tt4155816,None,Documentary; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1396,tt4158952,English,Documentary,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1397,tt4163486,English,Animation; Comedy; Fantasy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1398,tt4167782,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1399,tt4168532,Mandarin,Drama,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1400,tt4168666,English,Animation,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1401,tt4183192,English,Animation,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1402,tt4203318,None,Animation; Short,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1403,tt4211564,Swedish,Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1404,tt4241648,Italian,Animation; Short,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1405,tt4247362,Mandarin,Animation; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1406,tt4254596,English,Short; Comedy; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1407,tt4255248,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1408,tt4265334,English,Short; Comedy,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1409,tt4267472,English,Short; Horror; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1410,tt4269776,Korean,Comedy; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1411,tt4274964,English,Short; Music,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1412,tt4287706,Filipino; Tagalog,Documentary,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1413,tt4290772,Filipino; Tagalog,Documentary,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1414,tt4290782,Filipino; Tagalog,Documentary,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1415,tt4295280,Portuguese,Comedy; Drama; Romance,1 win & 11 nominations.,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1416,tt4316202,Turkish,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1417,tt4327600,English,Documentary; History; War,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1418,tt4331630,English,Short; Music,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1419,tt4346372,English,Documentary; Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1420,tt4362372,English,News,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1421,tt4364060,English,Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1422,tt4364102,English,Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1423,tt4366000,English,Documentary; Music,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1424,tt4369334,English,Short; Music,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1425,tt4373328,English,Animation; Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1426,tt4406352,English,Animation,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1427,tt4408152,English,Short; Horror,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1428,tt4458594,English,Animation; Action; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1429,tt4460588,Dutch,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1430,tt4460848,Dutch,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1431,tt4510896,Cantonese; Thai; English,Drama,4 wins & 7 nominations.,4.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1432,tt4529436,,Animation; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1433,tt4532586,Korean,Reality-TV,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1434,tt4602352,,Animation; Short,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1435,tt4667138,English; Uighur,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1436,tt4839806,Italian,Short; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1437,tt4893200,English,Short; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1438,tt4985332,Hakka,Drama,3 wins & 4 nominations.,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1439,tt5056454,Lithuanian,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1440,tt5182352,Cree; Inuktitut,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1441,tt5223872,French,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1442,tt5245278,Welsh,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1443,tt0038650,English,Drama; Family; Fantasy,Nominated for 5 Oscars. Another 6 wins & 1 nomination.,6.0,6.0,0.0,5.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+1444,tt0090728,English; Cantonese,Action; Adventure; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1445,tt0092272,English,Drama; Romance; Sport,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1446,tt0092272,English,Drama; Romance; Sport,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1447,tt0092455,English; Klingon; French,Action; Adventure; Mystery,Won 18 Primetime Emmys. Another 16 wins & 60 nominations.,34.0,60.0,0.0,0.0,0.0,0.0,16.0,18.0,0.0,0.0,0.0
+1448,tt0112178,English; Klingon,Action; Adventure; Sci-Fi,Won 7 Primetime Emmys. Another 25 wins & 84 nominations.,32.0,84.0,0.0,0.0,0.0,0.0,25.0,7.0,0.0,0.0,0.0
+1449,tt0120974,English,Comedy; Drama; Talk-Show,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1450,tt0145487,English,Action; Adventure,Nominated for 2 Oscars. Another 14 wins & 56 nominations.,14.0,58.0,0.0,2.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0
+1451,tt0235198,Japanese,Drama; Horror; Mystery,4 wins & 2 nominations.,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1452,tt0330793,English,Action; Crime; Drama,1 win & 5 nominations.,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1453,tt0369610,English,Action; Adventure; Sci-Fi,6 wins & 53 nominations.,6.0,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1454,tt0478970,English,Action; Adventure; Comedy,Nominated for 1 BAFTA Film Award. Another 2 wins & 28 nominations.,2.0,29.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0
+1455,tt0482629,English; Spanish,Drama; Family; Romance,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1456,tt0926732,English,Comedy,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1457,tt1051904,English,Adventure; Comedy; Family,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1458,tt1133985,English,Action; Adventure; Sci-Fi,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1459,tt1179933,English,Drama; Horror; Mystery,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1460,tt1211837,English,Action; Adventure; Fantasy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1461,tt1289401,English,Action; Comedy; Fantasy,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1462,tt1340138,English,Action; Adventure; Sci-Fi,7 nominations.,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1463,tt1386697,English; Japanese; Spanish,Action; Adventure; Fantasy,2 wins & 6 nominations.,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1464,tt1431045,English,Action; Adventure; Comedy,4 wins & 11 nominations.,4.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1465,tt1628841,English,Action; Adventure; Sci-Fi,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1466,tt1661199,English,Drama; Family; Fantasy,Nominated for 1 Oscar. Another 8 wins & 28 nominations.,8.0,29.0,0.0,1.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+1467,tt1679335,English,Animation; Adventure; Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1468,tt1691307,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1469,tt1691307,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1470,tt1700841,English,Animation; Adventure; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1471,tt1734579,Czech; French,Comedy; Drama,1 win & 8 nominations.,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1472,tt1751105,English,Animation; Comedy; Family,17 wins & 32 nominations.,17.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1473,tt1881002,English,Drama; Horror,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1474,tt1883367,English,Comedy; Horror,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1475,tt1951266,English,Action; Adventure; Sci-Fi,17 wins & 28 nominations.,17.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1476,tt1964418,English; French; Japanese,Action; Adventure; Family,2 wins & 16 nominations.,2.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1477,tt1974419,English,Horror; Thriller,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1478,tt1979388,English,Animation; Adventure; Comedy,Nominated for 1 Golden Globe. Another 5 wins & 39 nominations.,5.0,40.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0
+1479,tt1985949,English,Animation; Action; Adventure,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1480,tt1986202,English,Drama; Horror; Thriller,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1481,tt2049543,English,Mystery; Sci-Fi; Thriller,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1482,tt2072230,Japanese,Action; Adventure; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1483,tt2096673,English,Animation; Adventure; Comedy,Won 1 Oscar. Another 91 wins & 95 nominations.,92.0,95.0,0.0,0.0,0.0,0.0,91.0,0.0,1.0,0.0,0.0
+1484,tt2101383,English; German; Serbian,Drama; Romance,3 wins & 3 nominations.,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1485,tt2118624,English,Comedy; Horror,5 wins & 10 nominations.,5.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1486,tt2124787,English,Action; Drama; Horror,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1487,tt2126355,English,Action; Adventure; Drama,10 nominations.,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1488,tt2165765,English,Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1489,tt2170369,English,Action; Comedy; Fantasy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1490,tt2224026,English; French,Animation; Adventure; Comedy,2 wins & 8 nominations.,2.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1491,tt2226321,English,Drama; Thriller,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1492,tt2267968,English; Mandarin,Animation; Action; Adventure,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1493,tt2268016,English,Comedy; Drama; Music,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1494,tt2277860,English; Indonesian,Animation; Adventure; Comedy,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1495,tt2279373,English,Animation; Adventure; Comedy,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1496,tt2293640,English; Spanish,Animation; Action; Adventure,Nominated for 1 BAFTA Film Award. Another 1 win & 18 nominations.,1.0,19.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+1497,tt2304933,English,Action; Adventure; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1498,tt2309260,English,Horror; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1499,tt2322441,English,Drama; Romance; Thriller,Nominated for 1 Oscar. Another 9 wins & 18 nominations.,9.0,19.0,0.0,1.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0
+1500,tt2353030,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1501,tt2379713,English; Spanish; Italian; German; French,Action; Adventure; Thriller,Won 1 Oscar. Another 7 wins & 29 nominations.,8.0,29.0,0.0,0.0,0.0,0.0,7.0,0.0,1.0,0.0,0.0
+1502,tt2381111,English,Drama; Romance,Nominated for 3 Oscars. Another 32 wins & 141 nominations.,32.0,144.0,0.0,3.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0
+1503,tt2381249,English; Swedish; German,Action; Adventure; Thriller,2 wins & 18 nominations.,2.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1504,tt2395427,English,Action; Adventure; Sci-Fi,5 wins & 41 nominations.,5.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1505,tt2415458,English,Documentary; Biography,7 wins & 14 nominations.,7.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1506,tt2442080,Romanian,Documentary; Comedy; History,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1507,tt2450258,English,Documentary; Biography; Music,2 wins & 10 nominations.,2.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1508,tt2452042,English,Animation; Adventure; Comedy,Nominated for 1 Golden Globe. Another 1 win & 44 nominations.,1.0,45.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+1509,tt2473510,English; German; Ukrainian,Horror,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1510,tt2488496,English,Action; Adventure; Fantasy,Nominated for 5 Oscars. Another 47 wins & 106 nominations.,47.0,111.0,0.0,5.0,0.0,0.0,47.0,0.0,0.0,0.0,0.0
+1511,tt2492296,English,Drama; History,Won 1 Golden Globe. Another 2 wins & 17 nominations.,3.0,17.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
+1512,tt2510894,English,Animation; Comedy; Family,1 win & 10 nominations.,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1513,tt2543164,English,Drama; Mystery; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1514,tt2553928,English,Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1515,tt2554274,English,Drama; Fantasy; Horror,6 wins & 33 nominations.,6.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1516,tt2555736,English,Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1517,tt2567026,English,Adventure; Family; Fantasy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1518,tt2582782,English,Crime; Drama,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1519,tt2649554,English,Adventure; Drama; Sci-Fi,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1520,tt2674426,English,Drama; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1521,tt2677216,French,Fantasy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1522,tt2698966,English; Spanish; Quechua,Drama; Mystery; Thriller,6 wins.,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1523,tt2702724,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1524,tt2709768,English,Animation; Adventure; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1525,tt2719848,English; Russian,Adventure; Biography; Drama,7 nominations.,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1526,tt2749282,English,Biography; Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1527,tt2788432,English,Biography; Crime; Drama,Won 9 Primetime Emmys. Another 17 wins & 17 nominations.,26.0,17.0,0.0,0.0,0.0,0.0,17.0,9.0,0.0,0.0,0.0
+1528,tt2799974,English,Documentary; Biography; History,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1529,tt2802136,English; French,Comedy; Crime; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1530,tt2842732,English,Drama; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1531,tt2872750,None,Animation; Adventure; Comedy,Nominated for 1 Oscar. Another 2 wins & 49 nominations.,2.0,50.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+1532,tt2879552,English,Drama; Mystery; Sci-Fi,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1533,tt2891574,English,Comedy; Drama; Sport,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1534,tt2899142,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1535,tt2948356,English,Animation; Adventure; Comedy,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1536,tt2975590,English,Action; Adventure; Sci-Fi,1 win & 7 nominations.,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1537,tt2992000,English,Drama,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1538,tt3032476,English; Spanish; Vietnamese,Crime; Drama,Nominated for 1 Golden Globe. Another 10 wins & 53 nominations.,10.0,54.0,0.0,0.0,1.0,0.0,10.0,0.0,0.0,0.0,0.0
+1539,tt3032968,German,Crime,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1540,tt3037336,Czech; Slovak,Adventure; Comedy; Family,5 nominations.,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1541,tt3040964,English,Adventure; Drama; Family,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1542,tt3087864,English,Sci-Fi,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1543,tt3132100,Spanish,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1544,tt3132632,English,Documentary; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1545,tt3139482,English,Comedy; Drama; Horror,3 wins & 4 nominations.,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1546,tt3148266,English,Adventure; Drama; Mystery,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1547,tt3148552,English,Action; Mystery; Thriller,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1548,tt3169770,,Thriller,8 wins & 22 nominations.,8.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1549,tt3180912,English,Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1550,tt3185602,English; Mandarin; Cantonese,Comedy; Drama; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1551,tt3215364,English,Comedy; Crime; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1552,tt3219554,Hindi,Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1553,tt3230454,English,Action; Comedy; Drama,Nominated for 5 Primetime Emmys. Another 12 nominations.,0.0,17.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1554,tt3257638,German; English; Dutch,Drama,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1555,tt3262990,English,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1556,tt3315386,English,Drama; History,Nominated for 7 Primetime Emmys. Another 1 win & 26 nominations.,1.0,33.0,7.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1557,tt3322312,English,Action; Crime; Drama,Nominated for 5 Primetime Emmys. Another 2 wins & 11 nominations.,2.0,16.0,5.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+1558,tt3339966,English,Comedy; Drama,Nominated for 11 Primetime Emmys. Another 7 wins & 26 nominations.,7.0,37.0,11.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0
+1559,tt3355142,French,Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1560,tt3369624,English,Comedy; Horror; Musical,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1561,tt3369806,English,Adventure; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1562,tt3385516,English; Polish; German; Arabic; Egyptian (Ancient),Action; Adventure; Sci-Fi,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1563,tt3395274,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1564,tt3395582,English,Drama; Mystery; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1565,tt3416828,English,Animation; Adventure; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1566,tt3442634,Finnish,Drama; Thriller,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1567,tt3444616,English,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1568,tt3468798,English,Comedy; Drama,Won 1 Primetime Emmy. Another 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+1569,tt3475734,English,Action; Adventure; Sci-Fi,11 nominations.,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1570,tt3488298,English,Drama,Nominated for 3 Golden Globes. Another 9 wins & 50 nominations.,9.0,53.0,0.0,0.0,3.0,0.0,9.0,0.0,0.0,0.0,0.0
+1571,tt3498820,English; German; Xhosa; Russian; Romanian,Action; Adventure; Sci-Fi,2 wins & 7 nominations.,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1572,tt3499096,English; German,Biography; Drama; History,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1573,tt3508050,English,Drama; History,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1574,tt3518012,English,Documentary; History; News,5 wins & 26 nominations.,5.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1575,tt3520022,English,Biography; Drama; Romance,11 wins.,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1576,tt3520702,English,Drama; Thriller,Nominated for 1 Golden Globe. Another 1 win & 10 nominations.,1.0,11.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+1577,tt3554580,English; French; German; Italian; Portuguese; Spanish,Action; Adventure; Crime,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1578,tt3567288,English,Horror; Thriller,1 win & 10 nominations.,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1579,tt3574152,English,Adventure; Crime; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1580,tt3581932,English,Crime; Drama; Mystery,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1581,tt3591436,English,Comedy; Drama,4 wins & 1 nomination.,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1582,tt3596178,English,Comedy; Family,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1583,tt3598496,English,Drama; Western,Nominated for 3 Primetime Emmys. Another 2 wins & 7 nominations.,2.0,10.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+1584,tt3630144,English,Short; Drama; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1585,tt3631112,English,Drama; Mystery; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1586,tt3642918,English,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1587,tt3644258,English,Comedy; Crime; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1588,tt3674910,English,,Won 1 Primetime Emmy. Another 1 win & 13 nominations.,2.0,13.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+1589,tt3677742,,Comedy,Won 4 Primetime Emmys. Another 1 win & 6 nominations.,5.0,6.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0
+1590,tt3688406,English,Fantasy; Horror; Mystery,5 wins & 1 nomination.,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1591,tt3698558,English,Horror,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1592,tt3699692,English,Comedy; Horror,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1593,tt3704050,English; German,Drama; Thriller,3 wins & 19 nominations.,3.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1594,tt3705412,English,Comedy; Horror,8 wins & 6 nominations.,8.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1595,tt3720724,Spanish,Comedy; Family; Romance,5 wins & 8 nominations.,5.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1596,tt3750942,English,Biography; Drama,1 win & 7 nominations.,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1597,tt3757982,English,Short; Action,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1598,tt3768572,English,Crime; Drama; Thriller,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1599,tt3774694,English; French,Drama; Romance,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1600,tt3831000,Norwegian; Swedish,Drama; Family,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1601,tt3833746,,Documentary,6 nominations.,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1602,tt3833822,English; French; Japanese,Documentary; Music,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1603,tt3838728,French,Drama,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1604,tt3848126,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1605,tt3850590,English; German,Comedy; Fantasy; Horror,2 wins & 8 nominations.,2.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1606,tt3855240,Dutch,Crime; Drama; Thriller,1 win & 6 nominations.,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1607,tt3872918,French,Crime; Drama; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1608,tt3878542,English,Animation; Action; Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1609,tt3882082,English,Horror; Mystery; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1610,tt3882928,English,Action,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1611,tt3893280,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1612,tt3901256,English,Horror; Thriller,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1613,tt3910602,English,Documentary; Biography,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1614,tt3917316,Catalan; Spanish,Romance,7 nominations.,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1615,tt3946090,English,Short; Drama; Family,4 wins & 6 nominations.,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1616,tt3949660,English,Action; Adventure; Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1617,tt3951082,English,Short; Drama; Mystery,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1618,tt3970806,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1619,tt3975510,English,Drama; Fantasy; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1620,tt3986586,English,Comedy; Family,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1621,tt3991412,English,Mystery; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1622,tt4008758,French; Dutch; Arabic; Lingala,Action; Crime; Drama,6 wins & 5 nominations.,6.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1623,tt4016454,English,Action; Adventure; Drama,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1624,tt4035268,French,Drama,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1625,tt4046784,English,Action; Sci-Fi; Thriller,2 wins & 5 nominations.,2.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1626,tt4067076,English,Biography,Nominated for 3 Primetime Emmys. Another 12 nominations.,0.0,15.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1627,tt4085044,English,Documentary; Sport,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1628,tt4085084,French,Drama; Thriller,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1629,tt4086032,English,Horror; Thriller,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1630,tt4088848,Polish,Comedy; Drama,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1631,tt4094300,English,Comedy; Musical,Won 1 Golden Globe. Another 4 wins & 9 nominations.,5.0,9.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0
+1632,tt4108134,English,Crime; Drama; Mystery,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1633,tt4113846,English,Drama; Horror; Mystery,4 wins & 1 nomination.,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1634,tt4130180,English,Comedy; Drama,5 wins & 3 nominations.,5.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1635,tt4132692,English,Drama; Mystery; Sci-Fi,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1636,tt4135896,English,Documentary; Drama,3 wins & 3 nominations.,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1637,tt4144206,Danish; English,Animation; Action; Adventure,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1638,tt4145384,English,Comedy; Horror; Mystery,Nominated for 1 Golden Globe. Another 3 wins & 8 nominations.,3.0,9.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0
+1639,tt4146128,English,Drama; Sci-Fi; Thriller,3 nominations.,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1640,tt4148744,French; English,Animation; Action; Adventure,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1641,tt4158110,English; Swedish; Danish; Chinese,Crime; Drama; Thriller,Won 2 Golden Globes. Another 15 wins & 26 nominations.,17.0,26.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,2.0,0.0
+1642,tt4163020,English,Comedy; Horror,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1643,tt4165472,German,Family; Mystery,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1644,tt4189022,English,Action; Comedy; Fantasy,3 wins & 5 nominations.,3.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1645,tt4191054,English,Animation; Adventure; Comedy,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1646,tt4196450,English,Biography; Drama; History,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1647,tt4224476,English,Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1648,tt4231486,English,Action; Adventure; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1649,tt4262174,English; Spanish,Drama; Romance,3 wins & 3 nominations.,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1650,tt4262918,Spanish,Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1651,tt4264426,English,Horror,7 wins & 3 nominations.,7.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1652,tt4265396,English,Short; Drama; Mystery,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1653,tt4273170,English,Crime; Drama; Mystery,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1654,tt4284010,English; French,Documentary; Biography; Music,Nominated for 1 Oscar. Another 5 wins & 15 nominations.,5.0,16.0,0.0,1.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+1655,tt4286742,English,Documentary; Short; Biography,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1656,tt4288182,English,Comedy; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1657,tt4292420,French,Drama,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1658,tt4295140,,Documentary,Nominated for 4 Primetime Emmys. Another 1 win & 1 nomination.,1.0,5.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1659,tt4312140,Swiss German,Short; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1660,tt4324274,English,Animation; Action; Adventure,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1661,tt4329800,Polish,Drama; Romance,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1662,tt4341996,English,Biography; Crime; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1663,tt4352442,Swedish,Drama; Thriller,4 wins & 12 nominations.,4.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1664,tt4355418,English,Documentary; Short; History,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1665,tt4368568,English,Short; Crime; Drama,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1666,tt4370596,English,Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1667,tt4374208,English,Comedy,Nominated for 1 Primetime Emmy. Another 1 win & 5 nominations.,1.0,6.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1668,tt4379728,Mandarin; English; Cantonese,Action; Crime; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1669,tt4380324,English,Drama,2 wins & 4 nominations.,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1670,tt4385026,English,Drama; Romance,7 wins & 6 nominations.,7.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1671,tt4394104,English,Romance,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1672,tt4394392,English,Short; Comedy,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1673,tt4404238,Swedish,Short; Drama,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1674,tt4411288,Portuguese,Crime; Drama; Romance,3 wins & 9 nominations.,3.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1675,tt4413794,Arabic,Documentary,9 wins & 3 nominations.,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1676,tt4419524,English,Short; Action; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1677,tt4422656,English,Documentary; Drama; Family,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1678,tt4424812,English,Drama; Music,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1679,tt4433966,English,Documentary; Short; Music,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1680,tt4437054,German,Drama,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1681,tt4441280,Spanish,Drama; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1682,tt4444762,Swiss German; French; German,Drama,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1683,tt4450396,English,Animation; Family; Fantasy,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1684,tt4457140,English,Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1685,tt4465444,Dutch,Short; Drama,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1686,tt4466648,Bosnian; French; English,Drama,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1687,tt4467202,Hindi,Action; Drama; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1688,tt4469606,English,Short; Comedy,6 wins & 4 nominations.,6.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1689,tt4471416,Arabic,Drama,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1690,tt4471636,Korean,Romance,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1691,tt4474344,English,Crime; Drama; Mystery,1 win & 4 nominations.,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1692,tt4483460,Spanish,Documentary; Musical,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1693,tt4491640,Portuguese,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1694,tt4503900,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1695,tt4507490,English,Documentary; History,5 wins.,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1696,tt4519366,German,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1697,tt4532764,Persian,Drama,5 wins & 7 nominations.,5.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1698,tt4536736,English,Short; Horror; Thriller,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1699,tt4537842,English,Comedy; Music; Musical,Nominated for 2 Primetime Emmys. Another 3 nominations.,0.0,5.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1700,tt4543962,German,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1701,tt4544336,Danish,Short; Drama,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1702,tt4548732,Polish,Documentary; Short; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1703,tt4551318,Russian; German; French; Yiddish,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1704,tt4569688,,Documentary; Crime; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1705,tt4576958,English,Short; Horror,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1706,tt4587946,English,Documentary; Music,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1707,tt4589186,French,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1708,tt4590262,English,Documentary; Short; History,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1709,tt4591680,English,Comedy; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1710,tt4604692,English,Reality-TV,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1711,tt4606734,Swedish,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1712,tt4622776,English,Reality-TV,Nominated for 1 Primetime Emmy. Another 1 win.,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1713,tt4623246,French,Short; Comedy; Horror,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1714,tt4624424,English,Animation; Adventure; Comedy,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1715,tt4635922,English,Comedy,6 wins & 6 nominations.,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1716,tt4636204,Spanish,Short; Drama,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1717,tt4645614,English,Crime,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1718,tt4658612,English,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1719,tt4671092,English,Animation; Short; Horror,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1720,tt4671682,English,Crime; Drama; Family,3 wins & 1 nomination.,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1721,tt4677742,French,Documentary; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1722,tt4683668,English,Documentary; Biography,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1723,tt4699982,English; Irish,Drama; War,1 win & 7 nominations.,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1724,tt4715356,English,Crime; Thriller,5 wins & 13 nominations.,5.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1725,tt4715688,English,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1726,tt4729660,English,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1727,tt4729990,English,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1728,tt4731008,English; French; German,Animation; Adventure; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1729,tt4741306,English,Action; Adventure; Sci-Fi,3 wins & 2 nominations.,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1730,tt4742644,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1731,tt4743688,English,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1732,tt4747380,Thai; English; Japanese,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1733,tt4768764,Korean,Action; Comedy; Crime,3 wins & 22 nominations.,3.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1734,tt4771836,English,Animation; Adventure; Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1735,tt4781886,English,Adventure; Family,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1736,tt4801328,French,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1737,tt4806102,Mandarin,Documentary,2 wins.,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1738,tt4817808,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1739,tt4819510,English,Documentary; Comedy; Family,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1740,tt4824302,English,Comedy; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1741,tt4833952,English,Mystery,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1742,tt4844752,Turkish; German; English,Documentary; Drama,1 win & 3 nominations.,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1743,tt4868972,English,Documentary; Biography,2 wins & 3 nominations.,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1744,tt4872078,English,Comedy; Drama,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1745,tt4872192,Persian,Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1746,tt4881032,Portuguese,Documentary,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1747,tt4881548,Georgian,Short; Drama,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1748,tt4881616,Greek; French,Short; Drama; Fantasy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1749,tt4882192,English,Short; Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1750,tt4898890,German,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1751,tt4901356,Italian,Comedy,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1752,tt4907044,Portuguese,Short; Comedy; Romance,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1753,tt4908644,Ukrainian; Russian; English,Documentary,Nominated for 1 Oscar. Another 1 win & 3 nominations.,1.0,4.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1754,tt4918278,English,Documentary; Animation; Short,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1755,tt4936064,English; Spanish; Arabic; Hindi,Documentary,1 win & 7 nominations.,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1756,tt4938416,,Animation; Action; Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1757,tt4938484,English,Documentary,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1758,tt4938930,Turkish,Drama; Family; Mystery,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1759,tt4939866,German,Drama,2 wins & 7 nominations.,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1760,tt4955294,None,Animation; Short,Nominated for 1 Oscar. Another 1 nomination.,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1761,tt4964772,English; Arabic; Spanish,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1762,tt4969466,English,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1763,tt4981636,English,Animation; Comedy; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1764,tt4986278,Portuguese,Comedy; Crime; Drama,1 win & 10 nominations.,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1765,tt5006180,English,Reality-TV,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1766,tt5023666,Japanese,Animation; Action; Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1767,tt5037290,Spanish,Biography,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1768,tt5046534,Tagalog,Biography,5 wins & 10 nominations.,5.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1769,tt5088794,Romanian,Drama,4 wins & 5 nominations.,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1770,tt5097050,English,Comedy,4 wins.,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1771,tt5104362,Polish,Crime; Drama; Mystery,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1772,tt5123004,English,Documentary,1 win & 2 nominations.,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1773,tt5129156,English,Drama; Fantasy; Horror,3 wins.,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1774,tt5159204,English,Adventure; Comedy; Family,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1775,tt5167226,English,Short; Comedy,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1776,tt5168192,English,Drama,6 wins.,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1777,tt5173046,English,Animation,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1778,tt5180052,Italian,Comedy; Crime; Drama,2 wins & 7 nominations.,2.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1779,tt5193358,English,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1780,tt5198004,English,Biography,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1781,tt5202850,English,Sci-Fi,4 nominations.,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1782,tt5231798,French,,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1783,tt5235348,English,Short; Action; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1784,tt5240824,Danish,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1785,tt5257770,English,Short; Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1786,tt5258040,English,Documentary,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1787,tt5258442,English,Documentary; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1788,tt5275830,English,Documentary; Biography; Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1789,tt5275866,English,Documentary; Biography; History,5 wins.,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1790,tt5285494,English,Musical,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1791,tt5294966,Japanese,Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1792,tt5347932,English,Musical,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1793,tt5354588,English,Short; Action,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1794,tt5421684,Dutch,Short; Drama; Music,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1795,tt5424802,English,Documentary; Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1796,tt5425704,French,Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1797,tt5437970,Italian; English; Slovenian; Slovenian,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1798,tt5459436,English,Short; Music,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1799,tt5476474,German,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1800,tt5477402,English; Spanish,Documentary; Music,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1801,tt5518022,Slovenian; Croatian; English; Serbian,Documentary; Drama,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1802,tt5563254,English; French; Italian,Documentary,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1803,tt5591342,English,Documentary,2 wins & 2 nominations.,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1804,tt5643768,English,Comedy; Romance,2 wins & 1 nomination.,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1805,tt5659864,English,Documentary; Adventure,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1806,tt5707408,English,Sci-Fi,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1807,tt5719456,Spanish,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1808,tt5721552,Greek,Short; Drama,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1809,tt5724358,English,Documentary,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1810,tt5754426,Portuguese,Short; Drama,1 win.,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1811,tt5766968,Mandarin,Short,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1812,tt5891860,Filipino; Tagalog,Short; Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1813,tt5895570,English,Comedy,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1814,tt5986050,English,Documentary,2 nominations.,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1815,tt5999174,Persian,Drama,1 nomination.,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1816,tt6002956,English,Comedy; Drama; Mystery,1 win & 1 nomination.,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1817,tt6054290,Mandarin,Drama; Romance,7 nominations.,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
